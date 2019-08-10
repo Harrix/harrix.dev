@@ -1,0 +1,42 @@
+title: Harrix
+email: sergienkoanton@mail.ru
+#baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "harrix.io"
+twitter_username: harrixreal
+github_username:  harrix
+
+markdown: kramdown
+kramdown:
+  math_engine: nil
+
+pagination:
+  enabled: true
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+scholar:
+  style: apa
+  locale: ru
+  repository: publications
+  bibliography_template: bibliography
+
+defaults:
+  -
+    scope:
+      path: "_posts/blog"
+      type: posts
+    values:
+      layout: post
+      categories: [blog]
+  -
+    scope:
+      path: "_posts/games"
+      type: posts
+    values:
+      layout: post
+      categories: [games]
+
+destination: ../dist

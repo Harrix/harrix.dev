@@ -1,0 +1,164 @@
+http://blog.harrix.org/article/38 http://localhost:4000/blog/2013/log-of-base-two-in-mathcad/
+http://blog.harrix.org/article/56 http://localhost:4000/blog/2013/library-of-all-knowledge/
+http://blog.harrix.org/article/43 http://localhost:4000/blog/2013/initial-setup-sublime-text-2/
+http://blog.harrix.org/article/70 http://localhost:4000/blog/2013/kbd-style/
+http://blog.harrix.org/article/77 http://localhost:4000/blog/2013/materiality-of-thoughts/
+http://blog.harrix.org/article/76 http://localhost:4000/blog/2013/americans-on-moon/
+http://blog.harrix.org/article/53 http://localhost:4000/blog/2013/faq-sublime-text-2/
+http://blog.harrix.org/article/58 http://localhost:4000/blog/2013/sublime-text-2-to-notepad/
+http://blog.harrix.org/article/100 http://localhost:4000/blog/2013/notepad-plus-plus-plugins/
+http://blog.harrix.org/article/186 http://localhost:4000/blog/2013/textfx
+http://blog.harrix.org/article/350 http://localhost:4000/blog/2013/qml-in-notepad-plus-plus/
+http://blog.harrix.org/article/426 http://localhost:4000/blog/2013/arconix-shortcodes/
+http://blog.harrix.org/article/428 http://localhost:4000/blog/2013/element-qt-quick-2/
+http://blog.harrix.org/article/363 http://localhost:4000/blog/2013/video-in-qt-quick-2/
+http://blog.harrix.org/article/436 http://localhost:4000/blog/2013/qt5-vs-qt4/
+http://blog.harrix.org/article/444 http://localhost:4000/blog/2018/pscyr/
+http://blog.harrix.org/article/849 http://localhost:4000/blog/2018/install-latex/
+http://blog.harrix.org/article/2178 http://localhost:4000/blog/2014/file-not-found-texstudio/
+http://blog.harrix.org/article/656 http://localhost:4000/blog/2013/spell-check-in-texstudio/
+http://blog.harrix.org/article/99 http://localhost:4000/blog/2013/faq-notepad-plus-plus/
+http://blog.harrix.org/article/833 http://localhost:4000/blog/2014/spell-check-in-notepad/
+http://blog.harrix.org/article/2045 http://localhost:4000/blog/2014/remove-duplicate-lines/
+http://blog.harrix.org/article/2850 http://localhost:4000/blog/2015/remove-empty-lines-notepad/
+http://blog.harrix.org/article/2408 http://localhost:4000/blog/2014/delete-every-second-line/
+http://blog.harrix.org/article/513 http://localhost:4000/blog/2013/beautiful-css-tables/
+http://blog.harrix.org/article/518 http://localhost:4000/blog/2013/koken-first-review/
+http://blog.harrix.org/article/547 http://localhost:4000/blog/2013/koken-change-theme/
+http://blog.harrix.org/article/598 http://localhost:4000/blog/2013/koken-translation-of-site/
+http://blog.harrix.org/article/609 http://localhost:4000/blog/2013/koken-comments/
+http://blog.harrix.org/article/618 http://localhost:4000/blog/2013/problem-with-qml-files/
+http://blog.harrix.org/article/641 http://localhost:4000/blog/2013/latex-highlight-cyrillic/
+http://blog.harrix.org/article/662 http://localhost:4000/blog/2013/afraid-conditional-probability/
+http://blog.harrix.org/article/661 http://localhost:4000/blog/2013/latex-links-and-hyperlinks/
+http://blog.harrix.org/article/666 http://localhost:4000/blog/2013/logo-on-title-page-latex/
+http://blog.harrix.org/article/672 http://localhost:4000/blog/2013/remove-indent-of-itemize/
+http://blog.harrix.org/article/687 http://localhost:4000/blog/2013/double-index-in-latex/
+http://blog.harrix.org/article/680 http://localhost:4000/blog/2013/bibliography-in-latex/
+http://blog.harrix.org/article/699 http://localhost:4000/blog/2013/latex-and-illustrator/
+http://blog.harrix.org/article/33 http://localhost:4000/blog/2013/tools-used-in-blog/
+http://blog.harrix.org/article/4973 http://localhost:4000/blog/2016/tools-used-in-blog-2/
+http://blog.harrix.org/article/1258 http://localhost:4000/blog/2014/show-pdf-from-github/
+http://blog.harrix.org/article/648 http://localhost:4000/blog/2013/algorithm2e-cyrillic/
+http://blog.harrix.org/article/711 http://localhost:4000/blog/2013/algorithmicx-cyrillic/
+http://blog.harrix.org/article/765 http://localhost:4000/blog/2013/analog-align-alclient-in-qt/
+http://blog.harrix.org/article/3362 http://localhost:4000/blog/2013/nested-loops-in-cpp/
+http://blog.harrix.org/article/1711 http://localhost:4000/blog/2014/how-to-play-mp3-in-qt/
+http://blog.harrix.org/article/1700 http://localhost:4000/blog/2014/save-from-qtableview-to-csv/
+http://blog.harrix.org/article/1523 http://localhost:4000/blog/2014/output-data-to-qtableview/
+http://blog.harrix.org/article/1706 http://localhost:4000/blog/2014/save-from-qtextedit-to-odf/
+http://blog.harrix.org/article/1521 http://localhost:4000/blog/2014/connect-to-sql-server-in-qt/
+http://blog.harrix.org/article/2437 http://localhost:4000/blog/2014/install-jdk-on-windows/
+http://blog.harrix.org/article/7729 http://localhost:4000/blog/2017/create-items-programmatically/
+http://blog.harrix.org/article/1813 http://localhost:4000/blog/2014/qcustomplot/
+http://blog.harrix.org/article/4764 http://localhost:4000/blog/2016/install-visual-studio-2015/
+http://blog.harrix.org/article/2792 http://localhost:4000/blog/2015/add-2-num-vs-2013-console/
+http://blog.harrix.org/article/6789 http://localhost:4000/blog/2017/install-visual-studio-2017/
+http://blog.harrix.org/article/6813 http://localhost:4000/blog/2017/add-2-num-vs-2017-clr/
+http://blog.harrix.org/article/7118 http://localhost:4000/blog/2017/win-fn-key-swap-in-msi/
+http://blog.harrix.org/article/5888 http://localhost:4000/blog/2016/fix-qt-under-visual-studio/
+http://blog.harrix.org/article/2446 http://localhost:4000/blog/2019/install-android-studio/
+http://blog.harrix.org/article/6706 http://blog.harrix.org/article/2742 http://localhost:4000/blog/2019/add-2-num-android/
+http://blog.harrix.org/article/3220 http://localhost:4000/blog/2019/install-intellij-idea/
+http://blog.harrix.org/article/3248 http://localhost:4000/blog/2019/add-2-num-intellij-idea/
+http://blog.harrix.org/article/2514 http://localhost:4000/blog/2014/install-eclipse-java/
+http://blog.harrix.org/article/2808 http://localhost:4000/blog/2015/add-2-num-eclipse-java/
+http://blog.harrix.org/article/1130 http://localhost:4000/blog/2014/install-qt-on-windows-xp/
+http://blog.harrix.org/article/917 http://localhost:4000/blog/2018/install-qt-mingw/
+http://blog.harrix.org/article/2417 http://blog.harrix.org/article/5235 http://blog.harrix.org/article/4870 http://localhost:4000/blog/2018/install-qt-advanced/
+http://blog.harrix.org/article/6392 http://localhost:4000/blog/2017/step-gradient-on-msi-gt72vr/
+http://blog.harrix.org/article/4826 http://localhost:4000/blog/2016/using-qthread/
+http://blog.harrix.org/article/55 http://localhost:4000/blog/2013/faq-qt/
+http://blog.harrix.org/article/669 http://localhost:4000/blog/2013/faq-latex/
+http://blog.harrix.org/article/5812 http://localhost:4000/blog/2016/read-matrix-from-file-cpp/
+http://blog.harrix.org/article/4556 http://localhost:4000/blog/2016/jquery-not-work-in-wordpress/
+http://blog.harrix.org/article/823 http://localhost:4000/blog/2013/sort-functions-in-qt-creator/
+http://blog.harrix.org/article/904 http://localhost:4000/blog/2014/3d-latex-pgfplots-mathcad/
+http://blog.harrix.org/article/933 http://localhost:4000/blog/2014/how-download-from-github/
+http://blog.harrix.org/article/994 http://localhost:4000/blog/2014/basic-app-qt-widgets/
+http://blog.harrix.org/article/1015 http://localhost:4000/blog/2014/run-qt-app-exe-outside-qt/
+http://blog.harrix.org/article/5034 http://localhost:4000/blog/2016/run-qt-vs-app-exe-outside-qt/
+http://blog.harrix.org/article/1345 http://localhost:4000/blog/2014/text-between-tags-in-php/
+http://blog.harrix.org/article/4506 http://localhost:4000/blog/2016/md-in-notepad-plus-plus/
+http://blog.harrix.org/article/843 http://localhost:4000/blog/2014/how-to-make-time-lapse-1/
+http://blog.harrix.org/article/844 http://localhost:4000/blog/2014/how-to-make-time-lapse-2/
+http://blog.harrix.org/article/845 http://localhost:4000/blog/2014/how-to-make-time-lapse-3/
+http://blog.harrix.org/article/1441 http://localhost:4000/blog/2014/how-to-make-time-lapse-4/
+http://blog.harrix.org/article/1511 http://localhost:4000/blog/2014/not-display-3d-mathcad/
+http://blog.harrix.org/article/1779 http://localhost:4000/blog/2014/uchum-time-lapse-video/
+http://blog.harrix.org/article/1784 http://localhost:4000/blog/2014/silence-of-love-video/
+http://blog.harrix.org/article/1785 http://localhost:4000/blog/2014/contemplation-video/
+http://blog.harrix.org/article/1787 http://localhost:4000/blog/2014/qtscript/
+http://blog.harrix.org/article/5207 http://localhost:4000/blog/2016/qjsengine/
+http://blog.harrix.org/article/1856 http://localhost:4000/blog/2014/how-to-add-french-quotes/
+http://blog.harrix.org/article/1884 http://localhost:4000/blog/2014/teleportation/
+http://blog.harrix.org/article/1889 http://localhost:4000/blog/2014/faq-readyscript/
+http://blog.harrix.org/article/1899 http://localhost:4000/blog/2014/droste-effect/
+http://blog.harrix.org/article/2168 http://localhost:4000/blog/2014/color-in-dell-inspiron-5547/
+http://blog.harrix.org/article/2188 http://localhost:4000/blog/2014/boot-menu-dell-inspiron-5547/
+http://blog.harrix.org/article/5793 http://localhost:4000/blog/2016/add-2-num-file-vs-2015/
+http://blog.harrix.org/article/4797 http://localhost:4000/blog/2016/add-2-num-devcpp/
+http://blog.harrix.org/article/1916 http://localhost:4000/blog/2014/image-services/
+http://blog.harrix.org/article/1958 http://localhost:4000/blog/2014/sound-services/
+http://blog.harrix.org/article/2056 http://localhost:4000/blog/2014/radial-gradient-with-noise/
+http://blog.harrix.org/article/2203 http://localhost:4000/blog/2018/apache-php-mysql/
+http://blog.harrix.org/article/2829 http://localhost:4000/blog/2015/add-2-num-qt-moc-console/
+http://blog.harrix.org/article/2844 http://localhost:4000/blog/2015/cyrillic-in-qt-console/
+http://blog.harrix.org/article/2868 http://localhost:4000/blog/2015/add-2-num-qt/
+http://blog.harrix.org/article/2911 http://localhost:4000/blog/2015/add-2-num-vs-2013-clr/
+http://blog.harrix.org/article/2966 http://localhost:4000/blog/2015/jsoup/
+http://blog.harrix.org/article/2431 http://localhost:4000/blog/2015/errors-in-qt-for-beginners/
+http://blog.harrix.org/article/3084 http://localhost:4000/blog/2015/wallpapers-for-galaxy-note/
+http://blog.harrix.org/article/3286 http://localhost:4000/blog/2015/add-2-num-js/
+http://blog.harrix.org/article/3307 http://localhost:4000/blog/2015/add-2-num-php/
+http://blog.harrix.org/article/3319 http://localhost:4000/blog/2015/lightroom-nikon/
+http://blog.harrix.org/article/3334 http://localhost:4000/blog/2018/russian-nouns/
+http://blog.harrix.org/article/3353 http://localhost:4000/blog/2018/add-2-num-file-intellij-idea/
+http://blog.harrix.org/article/4119 http://localhost:4000/blog/2015/how-remove-disqus-channel/
+http://blog.harrix.org/article/6076 http://blog.harrix.org/article/3998 http://blog.harrix.org/article/3997 http://localhost:4000/blog/2016/faq-atom/
+http://blog.harrix.org/article/4481 http://localhost:4000/blog/2015/programs-of-new-year/
+http://blog.harrix.org/article/4914 http://localhost:4000/blog/2016/add-2-num-vs-2015-clr/
+http://blog.harrix.org/article/5006 http://localhost:4000/blog/2016/add-video-from-google-drive/
+http://blog.harrix.org/article/5076 http://blog.harrix.org/article/3108 http://localhost:4000/blog/2016/add-2-num-qt-quick/
+http://blog.harrix.org/article/5079 http://blog.harrix.org/article/3175 http://localhost:4000/blog/2016/qt-quick-and-cpp/
+http://blog.harrix.org/article/5082 http://blog.harrix.org/article/3183 http://localhost:4000/blog/2016/add-2-num-qt-quick-controls/
+http://blog.harrix.org/article/5154 http://localhost:4000/blog/2016/db-browser-for-sqlite/
+http://blog.harrix.org/article/5159 http://localhost:4000/blog/2016/qt-sqlite/
+http://blog.harrix.org/article/5221 http://localhost:4000/blog/2016/qt-webengine/
+http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
+http://localhost:4000/en/blog/2013/kbd-style/
+http://localhost:4000/en/blog/2014/silence-of-love-video/
+http://localhost:4000/en/blog/2014/contemplation-video/
+http://localhost:4000/en/blog/2014/uchum-time-lapse-video/
+http://localhost:4000/en/blog/2017/win-fn-key-swap-in-msi/
+http://localhost:4000/blog/2018/why-npm-check-updates/
+http://localhost:4000/blog/2018/disable-hide-extensions/
+http://localhost:4000/blog/2018/animation-from-display-none/
+http://localhost:4000/blog/2018/pscyr-ttf-fonts/
+http://localhost:4000/blog/2018/nox-for-android-studio/
+http://localhost:4000/blog/2018/bluestacks-for-android-studio/
+http://localhost:4000/blog/2018/koplayer-for-android-studio/
+http://localhost:4000/blog/2018/genymotion-for-android-studio/
+http://localhost:4000/blog/2018/start-java/
+http://localhost:4000/blog/2018/scss-in-notepad-plus-plus/
+http://localhost:4000/blog/2018/add-2-num-file-devcpp/
+http://localhost:4000/blog/2018/add-2-num-qt-console/
+http://localhost:4000/blog/2018/own-markdown-rules-in-jekyll/
+http://localhost:4000/science/2018/math-logic-task/
+http://localhost:4000/blog/2018/cheat-sheet-for-java-android/
+http://localhost:4000/blog/2018/download-old-versions-vs/
+http://localhost:4000/blog/2018/color-actionbar-statusbar/
+http://localhost:4000/blog/2018/mp-android-chart/
+http://localhost:4000/blog/2018/android-canvas-animation/
+http://localhost:4000/blog/2018/instance-of-interface-in-java/
+http://localhost:4000/blog/2018/open-https-in-qt/
+http://localhost:4000/blog/2019/install-jdk-on-windows/
+http://games.harrix.org/article/459 http://localhost:4000/games/hand-not-hand/
+http://games.harrix.org/article/59 http://localhost:4000/games/black-magic/
+http://games.harrix.org/article/66 http://localhost:4000/games/folk-tale/
+http://games.harrix.org/article/72 http://localhost:4000/games/one-two-three/
+http://games.harrix.org/article/80 http://localhost:4000/games/contact/
+
+
+Временно удалено с сайта:
+http://blog.harrix.org/article/1291 http://localhost:4000/blog/2014/markdown-in-wordpress/

@@ -1,0 +1,119 @@
+---
+layout: default
+permalink: /en/
+title: Blog on English
+pagination:
+  enabled: true
+  category: blog
+  locale: en
+  per_page: 20
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+---
+
+<style>
+    ul.pager { text-align: center; list-style: none; }
+    ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
+  </style>
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+      {% assign category = 'blog'  %}
+      {% assign posts = site.categories[category] | where: "locale", "ru" %}
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+{% assign a =  post.path | split: '/' %}
+{% assign number =  a.size | minus: 2 %}
+{% assign folder = a[number]  %}
+
+{% capture featured_image_exists_png %}{% file_exists _posts/blog/{{ post.date | date: "%Y"}}/{{ folder }}/featured-image.png %}{% endcapture %}
+{% capture featured_image_exists_jpg %}{% file_exists _posts/blog/{{ post.date | date: "%Y"}}/{{ folder }}/featured-image.jpg %}{% endcapture %}
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        {% if featured_image_exists_png == "true" %}
+<p><img src="{{ post.url | prepend: site.baseurl }}featured-image.png"></p>
+{% endif %}
+        {% if featured_image_exists_jpg == "true" %}
+<p><img src="{{ post.url | prepend: site.baseurl }}featured-image.jpg"></p>
+{% endif %}
+        <p>filename = {{ folder }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+    <!--
+    Showing buttons to move to the next and to the previous list of posts (pager buttons).
+  -->
+  {% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
+
+  {% if paginator.total_pages > 1 %}
+  <div class="wj-pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="active">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="/">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/'  | replace: 'page:num', 'page/:num' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <style>
+  .wj-pagination {
+      text-align: center;
+  }
+  .wj-pagination a, .wj-pagination span {
+      padding: 7px 18px;
+      border: 1px solid #eee;
+      margin-left: -2px;
+      margin-right: -2px;
+      background-color: #ffffff;
+      display: inline-block;
+  }
+  .wj-pagination a:hover {
+      background-color: #f1f1f1;
+      color: #333;
+  }
+  </style>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

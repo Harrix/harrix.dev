@@ -1,0 +1,115 @@
+---
+layout: default
+---
+<div class="post">
+
+
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+    {% assign a =  page.path | split: '/' %}
+{% assign number =  a.size | minus: 2 %}
+{% assign folder = a[number]  %}
+
+{% capture featured_image_exists_png %}{% file_exists _posts/blog/{{ page.date | date: "%Y"}}/{{ folder }}/featured-image.png %}{% endcapture %}
+{% capture featured_image_exists_jpg %}{% file_exists _posts/blog/{{ page.date | date: "%Y"}}/{{ folder }}/featured-image.jpg %}{% endcapture %}
+
+{% if featured_image_exists_png == "true" %}
+<p><img src="{{ page.url | prepend: site.baseurl }}featured-image.png"></p>
+{% endif %}
+        {% if featured_image_exists_jpg == "true" %}
+<p><img src="{{ page.url | prepend: site.baseurl }}featured-image.jpg"></p>
+{% endif %}
+
+  </header>
+
+  <article class="post-content">
+
+      {% if page.related-id %}
+
+      {% include related-articles.html related-id=page.related-id %}
+
+      {% endif %}
+
+    {{ content }}
+  </article>
+
+  <hr>
+  {% if page.update %}
+  <p>Статья обновлена <b>{{page.update}}</b></p>
+  {% endif %}
+
+  <hr>
+  {% if page.demo %}
+  <p><a href="{{page.demo}}">Демо</a></p>
+  {% endif %}
+
+  <hr>
+  {% if page.link %}
+  <p><a href="{{page.link}}">Ссылка на проект</a></p>
+  {% endif %}
+
+  <hr>
+  {% if page.download %}
+  <p><a href="{{page.download}}">Скачать</a></p>
+  {% endif %}
+
+  <hr>
+  {% if page.updated %}
+  <p>Статья обновлена: {{page.updated}}</p>
+  {% endif %}
+
+  <hr>
+  {% if page.game-applicability %}
+  <p>Применимость: {{page.game-applicability}}</p>
+  {% endif %}
+  <hr>
+  {% if page.game-required %}
+  <p>Что требуется: {{page.game-required}}</p>
+  {% endif %}
+  <hr>
+  {% if page.game-how-many-people %}
+  <p>На сколько людей рассчитано: {{page.game-how-many-people}}</p>
+  {% endif %}
+  <hr>
+  {% if page.game-mobility %}
+  <p>Подвижность: {{page.game-mobility}}</p>
+  {% endif %}
+  <hr>
+  {% if page.game-place %}
+  <p>Место проведения: {{page.game-place}}</p>
+  {% endif %}
+
+  <hr>
+
+  <p>Тэги:</p>
+
+  <ul>
+    {% for tags in page.tags %}
+      <li>{{ tags }}</li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
+  <p>Категории:</p>
+
+  <ul>
+    {% for categories in page.categories %}
+      <li>{{ categories }}</li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
+  <p>{{ page.excerpt }}</p>
+
+  <hr>
+
+  <p>{{ page.content | strip | newline_to_br | split:'<br />' | first }}</p>
+
+  <hr>
+
+</div>
