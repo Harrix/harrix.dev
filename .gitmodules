@@ -1,0 +1,21 @@
+[submodule "src\\_posts\\blog\\2013"]
+	path = src\\_posts\\blog\\2013
+	url = https://github.com/Harrix/harrix.dev-blog-2013
+[submodule "src\\_posts\\blog\\2014"]
+	path = src\\_posts\\blog\\2014
+	url = https://github.com/Harrix/harrix.dev-blog-2014
+[submodule "src\\_posts\\blog\\2015"]
+	path = src\\_posts\\blog\\2015
+	url = https://github.com/Harrix/harrix.dev-blog-2015
+[submodule "src\\_posts\\blog\\2016"]
+	path = src\\_posts\\blog\\2016
+	url = https://github.com/Harrix/harrix.dev-blog-2016
+[submodule "src\\_posts\\blog\\2017"]
+	path = src\\_posts\\blog\\2017
+	url = https://github.com/Harrix/harrix.dev-blog-2017
+[submodule "src\\_posts\\blog\\2018"]
+	path = src\\_posts\\blog\\2018
+	url = https://github.com/Harrix/harrix.dev-blog-2018
+[submodule "src\\_posts\\blog\\2019"]
+	path = src\\_posts\\blog\\2019
+	url = https://github.com/Harrix/harrix.dev-blog-2019
