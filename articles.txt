@@ -128,6 +128,7 @@ http://blog.harrix.org/article/5221 http://localhost:4000/blog/2016/qt-webengine
 http://blog.harrix.org/article/5265 http://localhost:4000/blog/2019/add-2-num-qt-quick-controls-2/
 http://blog.harrix.org/article/5327 http://localhost:4000/blog/2016/add-2-num-pascal-abc-net/
 http://blog.harrix.org/article/5351 http://localhost:4000/blog/2016/add-2-num-vs-2015-win32/
+http://blog.harrix.org/article/5422 http://localhost:4000/blog/2016/add-2-num-c-builder-6/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
