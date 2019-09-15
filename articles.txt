@@ -144,6 +144,7 @@ http://blog.harrix.org/article/5645 http://localhost:4000/blog/2016/add-2-num-vs
 http://blog.harrix.org/article/5665 http://localhost:4000/blog/2016/add-2-num-vs-2015-basic/
 http://blog.harrix.org/article/5683 http://localhost:4000/blog/2016/add-2-num-vs-2015-basic-console/
 http://blog.harrix.org/article/5693 http://localhost:4000/blog/2016/add-2-num-vs-2015-cs-wpf/
+http://blog.harrix.org/article/5714 http://localhost:4000/blog/2016/add-2-num-vs-2015-cs-uwp/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
