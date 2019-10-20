@@ -160,6 +160,7 @@ http://localhost:4000/en/blog/2014/silence-of-love-video/
 http://localhost:4000/en/blog/2014/contemplation-video/
 http://localhost:4000/en/blog/2014/uchum-time-lapse-video/
 http://localhost:4000/en/blog/2017/win-fn-key-swap-in-msi/
+http://localhost:4000/en/blog/2016/pvs-studio/
 http://localhost:4000/blog/2018/why-npm-check-updates/
 http://localhost:4000/blog/2018/disable-hide-extensions/
 http://localhost:4000/blog/2018/animation-from-display-none/
