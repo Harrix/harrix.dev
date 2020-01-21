@@ -161,6 +161,7 @@ http://blog.harrix.org/article/6558 http://localhost:4000/blog/2017/add-2-num-cp
 http://blog.harrix.org/article/6582 http://localhost:4000/blog/2017/add-2-num-dcoder/
 http://blog.harrix.org/article/6610 http://localhost:4000/blog/2017/exist-sqlite-android-studio/
 http://blog.harrix.org/article/6692 http://localhost:4000/blog/2017/java-task-shopping-list/
+http://blog.harrix.org/article/6757 http://localhost:4000/blog/2017/third-party-components-gradle/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
