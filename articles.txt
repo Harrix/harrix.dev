@@ -165,6 +165,7 @@ http://blog.harrix.org/article/6757 http://localhost:4000/blog/2017/third-party-
 http://blog.harrix.org/article/6784 http://localhost:4000/en/blog/2017/exist-sqlite-android-studio-short/
 http://blog.harrix.org/article/6861 http://localhost:4000/blog/2017/element-over-another-android/
 http://blog.harrix.org/article/6869 http://localhost:4000/blog/2017/start-without-debugging-vs/
+http://blog.harrix.org/article/6880 http://localhost:4000/blog/2017/tomcat/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
