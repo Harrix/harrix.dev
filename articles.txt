@@ -166,6 +166,7 @@ http://blog.harrix.org/article/6784 http://localhost:4000/en/blog/2017/exist-sql
 http://blog.harrix.org/article/6861 http://localhost:4000/blog/2017/element-over-another-android/
 http://blog.harrix.org/article/6869 http://localhost:4000/blog/2017/start-without-debugging-vs/
 http://blog.harrix.org/article/6880 http://localhost:4000/blog/2017/tomcat/
+http://blog.harrix.org/article/6965 http://localhost:4000/blog/2017/add-2-num-php-get/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
@@ -207,3 +208,10 @@ http://games.harrix.org/article/80 http://localhost:4000/games/contact/
 
 Временно удалено с сайта:
 http://blog.harrix.org/article/1291 http://localhost:4000/blog/2014/markdown-in-wordpress/
+
+На будущее:
+http://blog.harrix.org/article/7028 http://localhost:4000/blog/2017/add-2-num-php-post/
+http://blog.harrix.org/article/6973 http://localhost:4000/blog/2017/add-2-num-java-get/
+http://blog.harrix.org/article/6986 http://localhost:4000/blog/2017/add-2-num-android-post/
+http://blog.harrix.org/article/7015 http://localhost:4000/blog/2017/add-2-num-http-url-connection/
+http://blog.harrix.org/article/7049 http://localhost:4000/blog/2017/add-2-num-html-get/
