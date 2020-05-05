@@ -1,12 +1,12 @@
-{% assign related-id = include.related-id  %}
-{% assign category = include.category | default: 'blog'  %}
-{% assign locale = include.locale | default: 'ru' %}
-{% assign posts = site.categories[category] | where: "locale", locale  %}
+{%- assign related-id = include.related-id  -%}
+{%- assign category = include.category | default: 'blog'  -%}
+{%- assign locale = include.locale | default: 'ru' -%}
+{%- assign posts = site.categories[category] | where: "locale", locale  -%}
 <h2>Статьи из цикла</h2>
 <ul>
-{% for post in posts %}
-  {% if post.related-id == related-id %}
+{%- for post in posts -%}
+  {%- if post.related-id == related-id -%}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
 </ul>
