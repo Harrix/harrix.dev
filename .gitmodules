@@ -22,3 +22,6 @@
 [submodule "src/_posts/games"]
 	path = src/_posts/games
 	url = https://github.com/Harrix/harrix.dev-games
+[submodule "src/_posts/blog/2020"]
+	path = src/_posts/blog/2020
+	url = https://github.com/Harrix/harrix.dev-blog-2020
