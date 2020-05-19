@@ -182,6 +182,7 @@ http://blog.harrix.org/article/7231 http://localhost:4000/blog/2017/java-annotat
 http://blog.harrix.org/article/7246 http://localhost:4000/blog/2017/method-call-java-annotation/
 http://blog.harrix.org/article/7378 http://localhost:4000/blog/2017/fragments-android-1/
 http://blog.harrix.org/article/7461 http://localhost:4000/blog/2017/fragments-android-2/
+http://blog.harrix.org/article/7462 http://localhost:4000/blog/2017/fragments-android-3/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
