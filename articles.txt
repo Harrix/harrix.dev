@@ -189,6 +189,7 @@ http://blog.harrix.org/article/7206 http://localhost:4000/blog/2017/add-2-num-ht
 http://blog.harrix.org/article/7209 http://localhost:4000/blog/2017/client-server/
 http://blog.harrix.org/article/7348 http://localhost:4000/blog/2017/gson-intellij-idea/
 http://blog.harrix.org/article/7370 http://localhost:4000/blog/2017/class-random-cpp11/
+http://blog.harrix.org/article/7631 http://localhost:4000/blog/2017/foreign-key-sqlite/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
