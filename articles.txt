@@ -234,6 +234,7 @@ http://games.harrix.org/article/84 http://localhost:4000/games/mafia/
 http://games.harrix.org/article/90 http://localhost:4000/games/how-was-it/
 http://games.harrix.org/article/94 http://localhost:4000/games/three-subjects/
 http://games.harrix.org/article/98 http://localhost:4000/games/only-truth/
+http://games.harrix.org/article/103 http://localhost:4000/games/three-lines/
 
 
 Временно удалено с сайта:
