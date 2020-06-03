@@ -239,6 +239,7 @@ http://games.harrix.org/article/109 http://localhost:4000/games/password-to-bunk
 http://games.harrix.org/article/115 http://localhost:4000/games/add-symbol/
 http://games.harrix.org/article/122 http://localhost:4000/games/charades/
 http://games.harrix.org/article/129 http://localhost:4000/games/count-to-40/
+http://games.harrix.org/article/157 http://localhost:4000/games/i-i/
 
 
 Временно удалено с сайта:
