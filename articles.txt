@@ -213,6 +213,7 @@ http://games.harrix.org/article/169 http://localhost:4000/games/i-take-with-me-o
 http://games.harrix.org/article/172 http://localhost:4000/games/cross-parallel/
 http://games.harrix.org/article/175 http://localhost:4000/games/three-segments/
 http://games.harrix.org/article/298 http://localhost:4000/games/four-segments/
+http://games.harrix.org/article/184 http://localhost:4000/games/strange-equalities/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
