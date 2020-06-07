@@ -221,6 +221,7 @@ http://games.harrix.org/article/252 http://localhost:4000/games/question-in-alph
 http://games.harrix.org/article/229 http://localhost:4000/games/make-up-words/
 http://games.harrix.org/article/234 http://localhost:4000/games/points/
 http://games.harrix.org/article/241 http://localhost:4000/games/segments/
+http://games.harrix.org/article/248 http://localhost:4000/games/dashes/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
