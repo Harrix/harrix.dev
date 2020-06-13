@@ -227,6 +227,7 @@ http://games.harrix.org/article/261 http://localhost:4000/games/open-closed/
 http://games.harrix.org/article/265 http://localhost:4000/games/how-many-fingers/
 http://games.harrix.org/article/274 http://localhost:4000/games/fingers/
 http://games.harrix.org/article/277 http://localhost:4000/games/square-of-people/
+http://games.harrix.org/article/280 http://localhost:4000/games/attention-test/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
