@@ -235,6 +235,7 @@ http://games.harrix.org/article/293 http://localhost:4000/games/catch-up-in-circ
 http://games.harrix.org/article/303 http://localhost:4000/games/went-out-blown-out/
 http://games.harrix.org/article/306 http://localhost:4000/games/curved-line/
 http://games.harrix.org/article/312 http://localhost:4000/games/three-light-switches/
+http://games.harrix.org/article/315 http://localhost:4000/games/two-trains-towards-each-other/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
