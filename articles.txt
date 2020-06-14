@@ -236,6 +236,7 @@ http://games.harrix.org/article/303 http://localhost:4000/games/went-out-blown-o
 http://games.harrix.org/article/306 http://localhost:4000/games/curved-line/
 http://games.harrix.org/article/312 http://localhost:4000/games/three-light-switches/
 http://games.harrix.org/article/315 http://localhost:4000/games/two-trains-towards-each-other/
+http://games.harrix.org/article/318 http://localhost:4000/games/foot-to-foot/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
