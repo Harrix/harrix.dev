@@ -242,6 +242,7 @@ http://games.harrix.org/article/326 http://localhost:4000/games/chukchi-dont-eat
 http://games.harrix.org/article/334 http://localhost:4000/games/psychosis/
 http://games.harrix.org/article/338 http://localhost:4000/games/animals-and-numbers/
 http://games.harrix.org/article/342 http://localhost:4000/games/which-letter-is-missing/
+http://games.harrix.org/article/350 http://localhost:4000/games/dashes-in-rhomb/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
