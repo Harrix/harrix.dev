@@ -239,6 +239,7 @@ http://games.harrix.org/article/315 http://localhost:4000/games/two-trains-towar
 http://games.harrix.org/article/318 http://localhost:4000/games/foot-to-foot/
 http://games.harrix.org/article/322 http://localhost:4000/games/not-remember/
 http://games.harrix.org/article/326 http://localhost:4000/games/chukchi-dont-eat-fish/
+http://games.harrix.org/article/334 http://localhost:4000/games/psychosis/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
