@@ -258,6 +258,7 @@ http://games.harrix.org/article/418 http://localhost:4000/games/four-truths-and-
 http://games.harrix.org/article/421 http://localhost:4000/games/4336454/
 http://games.harrix.org/article/496 http://localhost:4000/games/count-to-30/
 http://games.harrix.org/article/500 http://localhost:4000/games/three-sentences/
+http://games.harrix.org/article/504 http://localhost:4000/games/stand-up-straight-from-stool/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
