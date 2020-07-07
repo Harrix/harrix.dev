@@ -255,6 +255,7 @@ http://games.harrix.org/article/402 http://localhost:4000/games/hangman/
 http://games.harrix.org/article/409 http://localhost:4000/games/misere-game/
 http://games.harrix.org/article/412 http://localhost:4000/games/what-are-your-names/
 http://games.harrix.org/article/418 http://localhost:4000/games/four-truths-and-one-lie/
+http://games.harrix.org/article/421 http://localhost:4000/games/4336454/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
