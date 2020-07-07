@@ -262,6 +262,7 @@ http://games.harrix.org/article/504 http://localhost:4000/games/stand-up-straigh
 http://games.harrix.org/article/507 http://localhost:4000/games/three-g-three-ya/
 http://games.harrix.org/article/510 http://localhost:4000/games/two-types-of-tablets/
 http://games.harrix.org/article/513 http://localhost:4000/games/get-your-name-back/
+http://games.harrix.org/article/516 
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
