@@ -265,6 +265,7 @@ http://games.harrix.org/article/513 http://localhost:4000/games/get-your-name-ba
 http://games.harrix.org/article/516 http://localhost:4000/games/two-snakes-of-men/
 http://games.harrix.org/article/519 http://localhost:4000/games/change-inner-and-outer-circle/
 http://games.harrix.org/article/524 http://localhost:4000/games/month-is-silvered/
+http://games.harrix.org/article/527 http://localhost:4000/games/what-is-bus-number/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
