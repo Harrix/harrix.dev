@@ -269,6 +269,7 @@ http://games.harrix.org/article/527 http://localhost:4000/games/what-is-bus-numb
 http://games.harrix.org/article/530 http://localhost:4000/games/this-is-given-to-every-person/
 http://games.harrix.org/article/533 http://localhost:4000/games/smuggling/
 http://games.harrix.org/article/536 http://localhost:4000/games/put-100-nails-in-2-bags/
+http://games.harrix.org/article/539 http://localhost:4000/games/four-triangles-from-matches/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
