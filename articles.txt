@@ -274,6 +274,9 @@ http://games.harrix.org/article/545 http://localhost:4000/games/athlete-goes-up-
 http://games.harrix.org/article/548 http://localhost:4000/games/13112221/
 http://games.harrix.org/article/552 http://localhost:4000/games/two-times-two-equals-five/
 http://games.harrix.org/article/556 http://localhost:4000/games/draw-on-back/
+http://games.harrix.org/article/559 http://localhost:4000/games/guess-who/
+http://games.harrix.org/article/562 http://localhost:4000/games/truth-or-dare/
+http://games.harrix.org/article/569 
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
