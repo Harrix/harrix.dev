@@ -281,6 +281,7 @@ http://games.harrix.org/article/577 http://localhost:4000/games/flock-of-birds-w
 http://games.harrix.org/article/580 http://localhost:4000/games/santiki-fantiki-limpopo/
 http://games.harrix.org/article/583 http://localhost:4000/games/password-to-bunker-2/
 http://games.harrix.org/article/586 http://localhost:4000/games/twenty-three-plus-two-equals-one/
+http://games.harrix.org/article/605 http://localhost:4000/games/fake-coin-in-one-weighing/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
