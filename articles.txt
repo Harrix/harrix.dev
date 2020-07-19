@@ -278,6 +278,7 @@ http://games.harrix.org/article/559 http://localhost:4000/games/guess-who/
 http://games.harrix.org/article/562 http://localhost:4000/games/truth-or-dare/
 http://games.harrix.org/article/569 http://localhost:4000/games/largest-number-of-diagonals/
 http://games.harrix.org/article/577 http://localhost:4000/games/flock-of-birds-was-flying/
+http://games.harrix.org/article/580 http://localhost:4000/games/santiki-fantiki-limpopo/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
