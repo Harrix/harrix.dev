@@ -283,6 +283,7 @@ http://games.harrix.org/article/583 http://localhost:4000/games/password-to-bunk
 http://games.harrix.org/article/586 http://localhost:4000/games/twenty-three-plus-two-equals-one/
 http://games.harrix.org/article/605 http://localhost:4000/games/fake-coin-in-one-weighing/
 http://games.harrix.org/article/608 http://localhost:4000/games/two-roads-two-wise-men/
+http://games.harrix.org/article/611 http://localhost:4000/games/fake-coin-among-13-coins/
 http://localhost:4000/en/blog/2013/log-of-base-two-in-mathcad/
 http://localhost:4000/en/blog/2013/kbd-style/
 http://localhost:4000/en/blog/2014/silence-of-love-video/
