@@ -48,7 +48,7 @@ http://blog.harrix.org/article/1700 http://localhost:4000/blog/2014/save-from-qt
 http://blog.harrix.org/article/1523 http://localhost:4000/blog/2014/output-data-to-qtableview/
 http://blog.harrix.org/article/1706 http://localhost:4000/blog/2014/save-from-qtextedit-to-odf/
 http://blog.harrix.org/article/1521 http://localhost:4000/blog/2014/connect-to-sql-server-in-qt/
-http://blog.harrix.org/article/2437 http://localhost:4000/blog/2014/install-jdk-on-windows/
+http://blog.harrix.org/article/2437 http://localhost:4000/blog/2014/install-jdk-8-on-windows/
 http://blog.harrix.org/article/7729 http://localhost:4000/blog/2017/create-items-programmatically/
 http://blog.harrix.org/article/1813 http://localhost:4000/blog/2014/qcustomplot/
 http://blog.harrix.org/article/4764 http://localhost:4000/blog/2016/install-visual-studio-2015/
