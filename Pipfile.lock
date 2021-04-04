@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7f7606f08e0544d8d012ef4d097dabdd6df6843a28793eb6551245d4b2db4242"
+            "sha256": "b33a46443d79629e0c9c12bc00514853988c57b3e20ba34c4936f1328e1b3476"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,6 +15,29 @@
             }
         ]
     },
-    "default": {},
+    "default": {
+        "harrix-pylib": {
+            "hashes": [
+                "sha256:d3f83abbb73de66d9307858561d695d57934cb452382385a909b1c7a3975e7e6"
+            ],
+            "index": "pypi",
+            "version": "==0.2"
+        },
+        "harrix-pyssg": {
+            "hashes": [
+                "sha256:c302d1d7fb5713473e71d5aa9ba812b244401d906a6c98bb5390565253746975"
+            ],
+            "index": "pypi",
+            "version": "==0.0"
+        },
+        "markdown": {
+            "hashes": [
+                "sha256:31b5b491868dcc87d6c24b7e3d19a0d730d59d3e46f4eea6430a321bed387a49",
+                "sha256:96c3ba1261de2f7547b46a00ea8463832c921d3f9d6aba3f255a6f71386db20c"
+            ],
+            "index": "pypi",
+            "version": "==3.3.4"
+        }
+    },
     "develop": {}
 }

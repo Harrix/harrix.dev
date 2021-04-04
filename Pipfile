@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+harrix-pyssg = "*"
+markdown = "*"
+harrix-pylib = "*"
 
 [dev-packages]
 
