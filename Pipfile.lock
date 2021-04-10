@@ -25,10 +25,10 @@
         },
         "harrix-pyssg": {
             "hashes": [
-                "sha256:c302d1d7fb5713473e71d5aa9ba812b244401d906a6c98bb5390565253746975"
+                "sha256:12a94b211baec2825b6e4135f4e35cf030993f7fe9822d60d3736959608ec7c7"
             ],
             "index": "pypi",
-            "version": "==0.0"
+            "version": "==0.1"
         },
         "markdown": {
             "hashes": [
