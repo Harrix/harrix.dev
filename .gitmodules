@@ -25,3 +25,6 @@
 [submodule "src/_posts/blog/2020"]
 	path = src/_posts/blog/2020
 	url = https://github.com/Harrix/harrix.dev-blog-2020
+[submodule "src/_posts/blog/2021"]
+	path = src/_posts/blog/2021
+	url = https://github.com/Harrix/harrix.dev-blog-2021
