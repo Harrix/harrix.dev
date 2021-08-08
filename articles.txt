@@ -303,7 +303,6 @@ http://localhost:4000/blog/2018/animation-from-display-none/
 http://localhost:4000/blog/2018/pscyr-ttf-fonts/
 http://localhost:4000/blog/2018/nox-for-android-studio/
 http://localhost:4000/blog/2018/bluestacks-for-android-studio/
-http://localhost:4000/blog/2018/koplayer-for-android-studio/
 http://localhost:4000/blog/2018/genymotion-for-android-studio/
 http://localhost:4000/blog/2018/start-java/
 http://localhost:4000/blog/2018/scss-in-notepad-plus-plus/
