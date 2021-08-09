@@ -319,4 +319,5 @@ http://localhost:4000/blog/2018/instance-of-interface-in-java/
 http://localhost:4000/blog/2018/open-https-in-qt/
 http://localhost:4000/blog/2019/install-jdk-on-windows/
 http://localhost:4000/blog/2020/empty-project-android/
-http://localhost:4000/blog/2017/install-visual-studio-2019/
+http://localhost:4000/blog/2021/install-visual-studio-2019/
+http://localhost:4000/blog/2021/install-open-jdk-on-windows/
