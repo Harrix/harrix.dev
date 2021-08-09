@@ -319,7 +319,3 @@ http://localhost:4000/blog/2018/instance-of-interface-in-java/
 http://localhost:4000/blog/2018/open-https-in-qt/
 http://localhost:4000/blog/2019/install-jdk-on-windows/
 http://localhost:4000/blog/2020/empty-project-android/
-
-
-Временно удалено с сайта:
-http://blog.harrix.org/article/1291 http://localhost:4000/blog/2014/markdown-in-wordpress/
