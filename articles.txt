@@ -322,3 +322,4 @@ http://localhost:4000/blog/2020/empty-project-android/
 http://localhost:4000/blog/2021/install-visual-studio-2019/
 http://localhost:4000/blog/2021/install-open-jdk-on-windows/
 http://localhost:4000/blog/2021/install-install-virtual-box/
+http://localhost:4000/blog/2021/install-node-js/
