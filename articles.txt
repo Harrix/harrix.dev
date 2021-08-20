@@ -309,7 +309,7 @@ http://localhost:4000/blog/2018/scss-in-notepad-plus-plus/
 http://localhost:4000/blog/2018/add-2-num-file-devcpp/
 http://localhost:4000/blog/2018/add-2-num-qt-console/
 http://localhost:4000/blog/2018/own-markdown-rules-in-jekyll/
-http://localhost:4000/science/2018/math-logic-task/
+http://localhost:4000/blog/2018/math-logic-task/
 http://localhost:4000/blog/2018/cheat-sheet-for-java-android/
 http://localhost:4000/blog/2018/download-old-versions-vs/
 http://localhost:4000/blog/2018/color-actionbar-statusbar/
