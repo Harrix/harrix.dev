@@ -331,3 +331,4 @@ http://localhost:4000/blog/2021/install-git/
 http://localhost:4000/blog/2021/add-2-num-add-2-num-thonny/
 http://localhost:4000/blog/2021/add-2-num-add-2-num-wing/
 http://localhost:4000/blog/2021/add-2-num-add-2-num-pycharm/
+http://localhost:4000/blog/2021/add-2-num-python-idle/
