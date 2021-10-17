@@ -4,8 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+harrix-pyssg = {version = "*", index = "https://test.pypi.org/simple/"}
+harrix-pylib = {version = "*", index = "https://test.pypi.org/simple/"}
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
