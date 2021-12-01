@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-harrix-pyssg = {version = "*", index = "https://test.pypi.org/simple/"}
-harrix-pylib = {version = "*", index = "https://test.pypi.org/simple/"}
+harrix-pylib = "*"
+harrix-pyssg = "*"
 
 [dev-packages]
 black = "*"
