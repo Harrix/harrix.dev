@@ -28,3 +28,6 @@
 [submodule "src/_posts/blog/2021"]
 	path = src/_posts/blog/2021
 	url = https://github.com/Harrix/harrix.dev-blog-2021
+[submodule "src/_posts/blog/2022"]
+	path = src/_posts/blog/2022
+	url = https://github.com/Harrix/harrix.dev-blog-2022
