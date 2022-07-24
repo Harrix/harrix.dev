@@ -3,7 +3,7 @@
 
 ## Video as images instead of gif
 
-```md
+```markdown
 [Result of the compile](img/result.mp4)
 
 [Result of the compile](img/result.webm)
@@ -17,7 +17,7 @@ If the line begins with a link, decorated with `<>`, the program tries to embed 
 
 The examples list all currently available services:
 
-```md
+```markdown
 <https://codepen.io/Harrix/pen/GBwrwy>
 
 <https://jsfiddle.net/Harrix/75402hj3/>
@@ -43,7 +43,7 @@ The examples list all currently available services:
 
 The optional number after the reference indicates the height of the embedded element (if it allows embed code):
 
-```md
+```markdown
 <https://codepen.io/Harrix/pen/GBwrwy> 500
 ```
 
@@ -53,7 +53,7 @@ There are two kinds of block: style Microsoft style with the horizontal line.
 
 ### Note block
 
-```md
+```markdown
 
 ---
 
@@ -69,7 +69,7 @@ Next line
 
 ### Important block
 
-```md
+```markdown
 
 ---
 
@@ -85,7 +85,7 @@ Next line
 
 ### Warning block
 
-```md
+```markdown
 
 ---
 
@@ -101,7 +101,7 @@ Next line
 
 ### DETAILS (spoiler) block
 
-```md
+```markdown
 
 ---
 
@@ -117,7 +117,7 @@ Next line
 
 ## Gallery
 
-```md
+```markdown
 [!gallery](name_of_subfolder)
 ```
 =end
