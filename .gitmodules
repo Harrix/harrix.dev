@@ -37,3 +37,6 @@
 [submodule "content/en/blog/2014"]
 	path = content/en/blog/2014
 	url = https://github.com/Harrix/harrix.dev-blog-2014-en
+[submodule "content/en/blog/2016"]
+	path = content/en/blog/2016
+	url = https://github.com/Harrix/harrix.dev-blog-2014-en
