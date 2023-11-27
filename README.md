@@ -19,4 +19,5 @@ Add next year to the site:
 
 ```console
 git submodule add https://github.com/Harrix/harrix.dev-blog-2023 content/ru/blog/2023
+git submodule add https://github.com/Harrix/harrix.dev-blog-2023-en content/en/blog/2023
 ```
