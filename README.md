@@ -18,6 +18,6 @@ git submodule foreach git pull origin main
 Add next year to the site:
 
 ```console
-git submodule add https://github.com/Harrix/harrix.dev-blog-2023 content/ru/blog/2023
-git submodule add https://github.com/Harrix/harrix.dev-blog-2023-en content/en/blog/2023
+git submodule add https://github.com/Harrix/harrix.dev-blog-2024 content/ru/blog/2024
+git submodule add https://github.com/Harrix/harrix.dev-blog-2024-en content/en/blog/2024
 ```
