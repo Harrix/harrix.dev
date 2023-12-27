@@ -21,3 +21,11 @@ Add next year to the site:
 git submodule add https://github.com/Harrix/harrix.dev-blog-2024 content/ru/blog/2024
 git submodule add https://github.com/Harrix/harrix.dev-blog-2024-en content/en/blog/2024
 ```
+
+Beatify:
+
+```console
+prettier --parser markdown --write **/*.md --end-of-line crlf
+```
+
+For last command: `npm i -g prettier`.
