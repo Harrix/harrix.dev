@@ -1,335 +1,335 @@
-http://blog.harrix.org/article/38 https://harrix.dev/blog/2013/log-of-base-two-in-mathcad/
-http://blog.harrix.org/article/56 https://harrix.dev/blog/2013/library-of-all-knowledge/
-http://blog.harrix.org/article/43 https://harrix.dev/blog/2013/initial-setup-sublime-text-2/
-http://blog.harrix.org/article/70 https://harrix.dev/blog/2013/kbd-style/
-http://blog.harrix.org/article/77 https://harrix.dev/blog/2013/materiality-of-thoughts/
-http://blog.harrix.org/article/76 https://harrix.dev/blog/2013/americans-on-moon/
-http://blog.harrix.org/article/53 https://harrix.dev/blog/2013/faq-sublime-text-2/
-http://blog.harrix.org/article/58 https://harrix.dev/blog/2013/sublime-text-2-to-notepad/
-http://blog.harrix.org/article/100 https://harrix.dev/blog/2013/notepad-plus-plus-plugins/
-http://blog.harrix.org/article/186 https://harrix.dev/blog/2013/textfx
-http://blog.harrix.org/article/350 https://harrix.dev/blog/2013/qml-in-notepad-plus-plus/
-http://blog.harrix.org/article/426 https://harrix.dev/blog/2013/arconix-shortcodes/
-http://blog.harrix.org/article/428 https://harrix.dev/blog/2013/element-qt-quick-2/
-http://blog.harrix.org/article/363 https://harrix.dev/blog/2013/video-in-qt-quick-2/
-http://blog.harrix.org/article/436 https://harrix.dev/blog/2013/qt5-vs-qt4/
-http://blog.harrix.org/article/444 https://harrix.dev/blog/2018/pscyr/
-http://blog.harrix.org/article/849 https://harrix.dev/blog/2018/install-latex/
-http://blog.harrix.org/article/2178 https://harrix.dev/blog/2014/file-not-found-texstudio/
-http://blog.harrix.org/article/656 https://harrix.dev/blog/2013/spell-check-in-texstudio/
-http://blog.harrix.org/article/99 https://harrix.dev/blog/2013/faq-notepad-plus-plus/
-http://blog.harrix.org/article/833 https://harrix.dev/blog/2014/spell-check-in-notepad/
-http://blog.harrix.org/article/2045 https://harrix.dev/blog/2014/remove-duplicate-lines/
-http://blog.harrix.org/article/2850 https://harrix.dev/blog/2015/remove-empty-lines-notepad/
-http://blog.harrix.org/article/2408 https://harrix.dev/blog/2014/delete-every-second-line/
-http://blog.harrix.org/article/513 https://harrix.dev/blog/2013/beautiful-css-tables/
-http://blog.harrix.org/article/618 https://harrix.dev/blog/2013/problem-with-qml-files/
-http://blog.harrix.org/article/641 https://harrix.dev/blog/2013/latex-highlight-cyrillic/
-http://blog.harrix.org/article/662 https://harrix.dev/blog/2013/afraid-conditional-probability/
-http://blog.harrix.org/article/661 https://harrix.dev/blog/2013/latex-links-and-hyperlinks/
-http://blog.harrix.org/article/666 https://harrix.dev/blog/2013/logo-on-title-page-latex/
-http://blog.harrix.org/article/672 https://harrix.dev/blog/2013/remove-indent-of-itemize/
-http://blog.harrix.org/article/687 https://harrix.dev/blog/2013/double-index-in-latex/
-http://blog.harrix.org/article/680 https://harrix.dev/blog/2013/bibliography-in-latex/
-http://blog.harrix.org/article/699 https://harrix.dev/blog/2013/latex-and-illustrator/
-http://blog.harrix.org/article/33 https://harrix.dev/blog/2013/tools-used-in-blog/
-http://blog.harrix.org/article/4973 https://harrix.dev/blog/2016/tools-used-in-blog-2/
-http://blog.harrix.org/article/1258 https://harrix.dev/blog/2014/show-pdf-from-github/
-http://blog.harrix.org/article/648 https://harrix.dev/blog/2013/algorithm2e-cyrillic/
-http://blog.harrix.org/article/711 https://harrix.dev/blog/2013/algorithmicx-cyrillic/
-http://blog.harrix.org/article/765 https://harrix.dev/blog/2013/analog-align-alclient-in-qt/
-http://blog.harrix.org/article/3362 https://harrix.dev/blog/2013/nested-loops-in-cpp/
-http://blog.harrix.org/article/1711 https://harrix.dev/blog/2014/how-to-play-mp3-in-qt/
-http://blog.harrix.org/article/1700 https://harrix.dev/blog/2014/save-from-qtableview-to-csv/
-http://blog.harrix.org/article/1523 https://harrix.dev/blog/2014/output-data-to-qtableview/
-http://blog.harrix.org/article/1706 https://harrix.dev/blog/2014/save-from-qtextedit-to-odf/
-http://blog.harrix.org/article/1521 https://harrix.dev/blog/2014/connect-to-sql-server-in-qt/
-http://blog.harrix.org/article/2437 https://harrix.dev/blog/2014/install-jdk-8-on-windows/
-http://blog.harrix.org/article/7729 https://harrix.dev/blog/2017/create-items-programmatically/
-http://blog.harrix.org/article/1813 https://harrix.dev/blog/2014/qcustomplot/
-http://blog.harrix.org/article/4764 https://harrix.dev/blog/2016/install-visual-studio-2015/
-http://blog.harrix.org/article/2792 https://harrix.dev/blog/2015/add-2-num-vs-2013-console/
-http://blog.harrix.org/article/6789 https://harrix.dev/blog/2017/install-visual-studio-2017/
-http://blog.harrix.org/article/6813 https://harrix.dev/blog/2017/add-2-num-vs-2017-clr/
-http://blog.harrix.org/article/7118 https://harrix.dev/blog/2017/win-fn-key-swap-in-msi/
-http://blog.harrix.org/article/5888 https://harrix.dev/blog/2016/fix-qt-under-visual-studio/
-http://blog.harrix.org/article/2446 https://harrix.dev/blog/2019/install-android-studio/
-http://blog.harrix.org/article/6706 http://blog.harrix.org/article/2742 https://harrix.dev/blog/2019/add-2-num-android/
-http://blog.harrix.org/article/3220 https://harrix.dev/blog/2019/install-intellij-idea/
-http://blog.harrix.org/article/3248 https://harrix.dev/blog/2019/add-2-num-intellij-idea/
-http://blog.harrix.org/article/2514 https://harrix.dev/blog/2014/install-eclipse-java/
-http://blog.harrix.org/article/2808 https://harrix.dev/blog/2015/add-2-num-eclipse-java/
-http://blog.harrix.org/article/1130 https://harrix.dev/blog/2014/install-qt-on-windows-xp/
-http://blog.harrix.org/article/917 https://harrix.dev/blog/2018/install-qt-mingw/
-http://blog.harrix.org/article/2417 http://blog.harrix.org/article/5235 http://blog.harrix.org/article/4870 https://harrix.dev/blog/2018/install-qt-advanced/
-http://blog.harrix.org/article/6392 https://harrix.dev/blog/2017/step-gradient-on-msi-gt72vr/
-http://blog.harrix.org/article/4826 https://harrix.dev/blog/2016/using-qthread/
-http://blog.harrix.org/article/55 https://harrix.dev/blog/2013/faq-qt/
-http://blog.harrix.org/article/669 https://harrix.dev/blog/2013/faq-latex/
-http://blog.harrix.org/article/5812 https://harrix.dev/blog/2016/read-matrix-from-file-cpp/
-http://blog.harrix.org/article/4556 https://harrix.dev/blog/2016/jquery-not-work-in-wordpress/
-http://blog.harrix.org/article/823 https://harrix.dev/blog/2013/sort-functions-in-qt-creator/
-http://blog.harrix.org/article/904 https://harrix.dev/blog/2014/3d-latex-pgfplots-mathcad/
-http://blog.harrix.org/article/933 https://harrix.dev/blog/2014/how-download-from-github/
-http://blog.harrix.org/article/994 https://harrix.dev/blog/2014/basic-app-qt-widgets/
-http://blog.harrix.org/article/1015 https://harrix.dev/blog/2014/run-qt-app-exe-outside-qt/
-http://blog.harrix.org/article/5034 https://harrix.dev/blog/2016/run-qt-vs-app-exe-outside-qt/
-http://blog.harrix.org/article/1345 https://harrix.dev/blog/2014/text-between-tags-in-php/
-http://blog.harrix.org/article/4506 https://harrix.dev/blog/2016/md-in-notepad-plus-plus/
-http://blog.harrix.org/article/843 https://harrix.dev/blog/2014/how-to-make-time-lapse-1/
-http://blog.harrix.org/article/844 https://harrix.dev/blog/2014/how-to-make-time-lapse-2/
-http://blog.harrix.org/article/845 https://harrix.dev/blog/2014/how-to-make-time-lapse-3/
-http://blog.harrix.org/article/1441 https://harrix.dev/blog/2014/how-to-make-time-lapse-4/
-http://blog.harrix.org/article/1511 https://harrix.dev/blog/2014/not-display-3d-mathcad/
-http://blog.harrix.org/article/1779 https://harrix.dev/blog/2014/uchum-time-lapse-video/
-http://blog.harrix.org/article/1784 https://harrix.dev/blog/2014/silence-of-love-video/
-http://blog.harrix.org/article/1785 https://harrix.dev/blog/2014/contemplation-video/
-http://blog.harrix.org/article/1787 https://harrix.dev/blog/2014/qtscript/
-http://blog.harrix.org/article/5207 https://harrix.dev/blog/2016/qjsengine/
-http://blog.harrix.org/article/1856 https://harrix.dev/blog/2014/how-to-add-french-quotes/
-http://blog.harrix.org/article/1884 https://harrix.dev/blog/2014/teleportation/
-http://blog.harrix.org/article/1889 https://harrix.dev/blog/2014/faq-readyscript/
-http://blog.harrix.org/article/1899 https://harrix.dev/blog/2014/droste-effect/
-http://blog.harrix.org/article/2168 https://harrix.dev/blog/2014/color-in-dell-inspiron-5547/
-http://blog.harrix.org/article/2188 https://harrix.dev/blog/2014/boot-menu-dell-inspiron-5547/
-http://blog.harrix.org/article/5793 https://harrix.dev/blog/2016/add-2-num-file-vs-2015/
-http://blog.harrix.org/article/4797 https://harrix.dev/blog/2016/add-2-num-devcpp/
-http://blog.harrix.org/article/1916 https://harrix.dev/blog/2014/image-services/
-http://blog.harrix.org/article/1958 https://harrix.dev/blog/2014/sound-services/
-http://blog.harrix.org/article/2056 https://harrix.dev/blog/2014/radial-gradient-with-noise/
-http://blog.harrix.org/article/2203 https://harrix.dev/blog/2018/apache-php-mysql/
-http://blog.harrix.org/article/2829 https://harrix.dev/blog/2015/add-2-num-qt-moc-console/
-http://blog.harrix.org/article/2844 https://harrix.dev/blog/2015/cyrillic-in-qt-console/
-http://blog.harrix.org/article/2868 https://harrix.dev/blog/2015/add-2-num-qt/
-http://blog.harrix.org/article/2911 https://harrix.dev/blog/2015/add-2-num-vs-2013-clr/
-http://blog.harrix.org/article/2966 https://harrix.dev/blog/2015/jsoup/
-http://blog.harrix.org/article/2431 https://harrix.dev/blog/2015/errors-in-qt-for-beginners/
-http://blog.harrix.org/article/3084 https://harrix.dev/blog/2015/wallpapers-for-galaxy-note/
-http://blog.harrix.org/article/3286 https://harrix.dev/blog/2015/add-2-num-js/
-http://blog.harrix.org/article/3307 https://harrix.dev/blog/2015/add-2-num-php/
-http://blog.harrix.org/article/3319 https://harrix.dev/blog/2015/lightroom-nikon/
-http://blog.harrix.org/article/3334 https://harrix.dev/blog/2018/russian-nouns/
-http://blog.harrix.org/article/3353 https://harrix.dev/blog/2018/add-2-num-file-intellij-idea/
-http://blog.harrix.org/article/4119 https://harrix.dev/blog/2015/how-remove-disqus-channel/
-http://blog.harrix.org/article/6076 http://blog.harrix.org/article/3998 http://blog.harrix.org/article/3997 https://harrix.dev/blog/2016/faq-atom/
-http://blog.harrix.org/article/4481 https://harrix.dev/blog/2015/programs-of-new-year/
-http://blog.harrix.org/article/4914 https://harrix.dev/blog/2016/add-2-num-vs-2015-clr/
-http://blog.harrix.org/article/5006 https://harrix.dev/blog/2016/add-video-from-google-drive/
-http://blog.harrix.org/article/5076 http://blog.harrix.org/article/3108 https://harrix.dev/blog/2016/add-2-num-qt-quick/
-http://blog.harrix.org/article/5079 http://blog.harrix.org/article/3175 https://harrix.dev/blog/2016/qt-quick-and-cpp/
-http://blog.harrix.org/article/5082 http://blog.harrix.org/article/3183 https://harrix.dev/blog/2016/add-2-num-qt-quick-controls/
-http://blog.harrix.org/article/5154 https://harrix.dev/blog/2016/db-browser-for-sqlite/
-http://blog.harrix.org/article/5159 https://harrix.dev/blog/2016/qt-sqlite/
-http://blog.harrix.org/article/5221 https://harrix.dev/blog/2016/qt-webengine/
-http://blog.harrix.org/article/5265 http://blog.harrix.org/article/5874 https://harrix.dev/blog/2019/add-2-num-qt-quick-controls-2/
-http://blog.harrix.org/article/5327 https://harrix.dev/blog/2016/add-2-num-pascal-abc-net/
-http://blog.harrix.org/article/5351 https://harrix.dev/blog/2016/add-2-num-vs-2015-win32/
-http://blog.harrix.org/article/5422 https://harrix.dev/blog/2016/add-2-num-c-builder-6/
-http://blog.harrix.org/article/5444 https://harrix.dev/blog/2016/add-2-num-c-builder-6-console/
-http://blog.harrix.org/article/5493 https://harrix.dev/blog/2016/add-2-num-vs-2010-clr/
-http://blog.harrix.org/article/5516 https://harrix.dev/blog/2016/add-2-num-vs-2010-console/
-http://blog.harrix.org/article/5529 https://harrix.dev/blog/2016/add-2-num-c-builder-10/
-http://blog.harrix.org/article/5556 https://harrix.dev/blog/2016/add-2-num-delphi-10/
-http://blog.harrix.org/article/5577 https://harrix.dev/blog/2016/add-2-num-c-builder-10-console/
-http://blog.harrix.org/article/5592 https://harrix.dev/blog/2016/add-2-num-delphi-10-console/
-http://blog.harrix.org/article/5605 https://harrix.dev/blog/2016/add-2-num-vs-2015-console/
-http://blog.harrix.org/article/6535 https://harrix.dev/blog/2017/add-2-num-vs-2015-console-2/
-http://blog.harrix.org/article/5618 https://harrix.dev/blog/2016/add-2-num-vs-2015-clr-console/
-http://blog.harrix.org/article/5630 https://harrix.dev/blog/2016/add-2-num-vs-2015-cs-console/
-http://blog.harrix.org/article/5645 https://harrix.dev/blog/2016/add-2-num-vs-2015-cs/
-http://blog.harrix.org/article/5665 https://harrix.dev/blog/2016/add-2-num-vs-2015-basic/
-http://blog.harrix.org/article/5683 https://harrix.dev/blog/2016/add-2-num-vs-2015-basic-console/
-http://blog.harrix.org/article/5693 https://harrix.dev/blog/2016/add-2-num-vs-2015-cs-wpf/
-http://blog.harrix.org/article/5714 https://harrix.dev/blog/2016/add-2-num-vs-2015-cs-uwp/
-http://blog.harrix.org/article/5738 https://harrix.dev/blog/2016/add-2-num-vs-2015-cpp-uwp/
-http://blog.harrix.org/article/5764 https://harrix.dev/blog/2016/add-2-num-free-pascal/
-http://blog.harrix.org/article/5819 https://harrix.dev/blog/2016/table-data-from-file-cpp/
-http://blog.harrix.org/article/5921 https://harrix.dev/blog/2016/git-worktree-github-pages/
-http://blog.harrix.org/article/5955 https://harrix.dev/blog/2016/git-worktree/
-http://blog.harrix.org/article/6000 https://harrix.dev/blog/2016/icon-qt-android/
-http://blog.harrix.org/article/6024 https://harrix.dev/blog/2016/xml-file-vs-2015/
-http://blog.harrix.org/article/6059 https://harrix.dev/blog/2016/new-class-clr-vs-2015/
-http://blog.harrix.org/article/6019 https://harrix.dev/blog/2016/pvs-studio/
-http://blog.harrix.org/article/6313 https://harrix.dev/blog/2016/class-with-instance-vector-clr/
-http://blog.harrix.org/article/6320 https://harrix.dev/blog/2016/xml-file-clr/
-http://blog.harrix.org/article/6339 https://harrix.dev/blog/2016/copy-files-in-build-folder-qt/
-http://blog.harrix.org/article/6558 https://harrix.dev/blog/2017/add-2-num-cpp-droid/
-http://blog.harrix.org/article/6582 https://harrix.dev/blog/2017/add-2-num-dcoder/
-http://blog.harrix.org/article/6610 https://harrix.dev/blog/2017/exist-sqlite-android-studio/
-http://blog.harrix.org/article/6692 https://harrix.dev/blog/2017/java-task-shopping-list/
-http://blog.harrix.org/article/6757 https://harrix.dev/blog/2017/third-party-components-gradle/
-http://blog.harrix.org/article/6784 https://harrix.dev/en/blog/2017/exist-sqlite-android-studio-short/
-http://blog.harrix.org/article/6861 https://harrix.dev/blog/2017/element-over-another-android/
-http://blog.harrix.org/article/6869 https://harrix.dev/blog/2017/start-without-debugging-vs/
-http://blog.harrix.org/article/6880 https://harrix.dev/blog/2017/tomcat/
-http://blog.harrix.org/article/6965 https://harrix.dev/blog/2017/add-2-num-php-get/
-http://blog.harrix.org/article/6973 https://harrix.dev/blog/2017/add-2-num-java-get/
-http://blog.harrix.org/article/6986 https://harrix.dev/blog/2017/add-2-num-apache-http/
-http://blog.harrix.org/article/7028 https://harrix.dev/blog/2017/add-2-num-php-post/
-http://blog.harrix.org/article/7015 https://harrix.dev/blog/2017/add-2-num-http-url-connection/
-http://blog.harrix.org/article/7041 https://harrix.dev/blog/2017/add-2-num-java-post/
-http://blog.harrix.org/article/7049 https://harrix.dev/blog/2017/add-2-num-html-get/
-http://blog.harrix.org/article/7062 https://harrix.dev/blog/2017/add-2-num-html-post/
-http://blog.harrix.org/article/7083 https://harrix.dev/blog/2017/add-2-num-apache-http-post/
-http://blog.harrix.org/article/7084 https://harrix.dev/blog/2017/add-2-num-http-url-connection-post/
-http://blog.harrix.org/article/7123 https://harrix.dev/blog/2017/boost-qt/
-http://blog.harrix.org/article/7200 https://harrix.dev/blog/2017/add-2-num-php-post-json/
-http://blog.harrix.org/article/7231 https://harrix.dev/blog/2017/java-annotation/
-http://blog.harrix.org/article/7246 https://harrix.dev/blog/2017/method-call-java-annotation/
-http://blog.harrix.org/article/7378 https://harrix.dev/blog/2017/fragments-android-1/
-http://blog.harrix.org/article/7461 https://harrix.dev/blog/2017/fragments-android-2/
-http://blog.harrix.org/article/7462 https://harrix.dev/blog/2017/fragments-android-3/
-http://blog.harrix.org/article/7492 https://harrix.dev/blog/2017/fragments-android-4/
-http://blog.harrix.org/article/7521 https://harrix.dev/blog/2017/fragments-android-5/
-http://blog.harrix.org/article/7206 https://harrix.dev/blog/2017/add-2-num-http-retrofit-post-json/
-http://blog.harrix.org/article/7209 https://harrix.dev/blog/2017/client-server/
-http://blog.harrix.org/article/7348 https://harrix.dev/blog/2017/gson-intellij-idea/
-http://blog.harrix.org/article/7370 https://harrix.dev/blog/2017/class-random-cpp11/
-http://blog.harrix.org/article/7631 https://harrix.dev/blog/2017/foreign-key-sqlite/
-http://blog.harrix.org/article/7676 https://harrix.dev/blog/2017/data-grid-view-vs/
-http://blog.harrix.org/article/7614 https://harrix.dev/blog/2017/sqlite-vs/
-http://games.harrix.org/article/459 https://harrix.dev/games/hand-not-hand/
-http://games.harrix.org/article/59 https://harrix.dev/games/black-magic/
-http://games.harrix.org/article/66 https://harrix.dev/games/folk-tale/
-http://games.harrix.org/article/72 https://harrix.dev/games/one-two-three/
-http://games.harrix.org/article/80 https://harrix.dev/games/contact/
-http://games.harrix.org/article/84 https://harrix.dev/games/mafia/
-http://games.harrix.org/article/90 https://harrix.dev/games/how-was-it/
-http://games.harrix.org/article/94 https://harrix.dev/games/three-subjects/
-http://games.harrix.org/article/98 https://harrix.dev/games/only-truth/
-http://games.harrix.org/article/103 https://harrix.dev/games/three-lines/
-http://games.harrix.org/article/109 https://harrix.dev/games/password-to-bunker/
-http://games.harrix.org/article/115 https://harrix.dev/games/add-symbol/
-http://games.harrix.org/article/122 https://harrix.dev/games/charades/
-http://games.harrix.org/article/129 https://harrix.dev/games/count-to-40/
-http://games.harrix.org/article/157 https://harrix.dev/games/i-i/
-http://games.harrix.org/article/162 https://harrix.dev/games/last-survivors/
-http://games.harrix.org/article/165 https://harrix.dev/games/garages/
-http://games.harrix.org/article/169 https://harrix.dev/games/i-take-with-me-on-trip/
-http://games.harrix.org/article/172 https://harrix.dev/games/cross-parallel/
-http://games.harrix.org/article/175 https://harrix.dev/games/three-segments/
-http://games.harrix.org/article/298 https://harrix.dev/games/four-segments/
-http://games.harrix.org/article/184 https://harrix.dev/games/strange-equalities/
-http://games.harrix.org/article/190 https://harrix.dev/games/three-mice/
-http://games.harrix.org/article/216 https://harrix.dev/games/then-forest-then-field/
-http://games.harrix.org/article/221 https://harrix.dev/games/what-is-georgian-surname/
-http://games.harrix.org/article/252 https://harrix.dev/games/question-in-alphabet/
-http://games.harrix.org/article/229 https://harrix.dev/games/make-up-words/
-http://games.harrix.org/article/234 https://harrix.dev/games/points/
-http://games.harrix.org/article/241 https://harrix.dev/games/segments/
-http://games.harrix.org/article/248 https://harrix.dev/games/dashes/
-http://games.harrix.org/article/258 https://harrix.dev/games/who-am-i/
-http://games.harrix.org/article/261 https://harrix.dev/games/open-closed/
-http://games.harrix.org/article/265 https://harrix.dev/games/how-many-fingers/
-http://games.harrix.org/article/274 https://harrix.dev/games/fingers/
-http://games.harrix.org/article/277 https://harrix.dev/games/square-of-people/
-http://games.harrix.org/article/280 https://harrix.dev/games/attention-test/
-http://games.harrix.org/article/283 https://harrix.dev/games/line-up-by-height/
-http://games.harrix.org/article/287 https://harrix.dev/games/avalanche-of-words/
-http://games.harrix.org/article/290 https://harrix.dev/games/tangled-feet/
-http://games.harrix.org/article/293 https://harrix.dev/games/catch-up-in-circle/
-http://games.harrix.org/article/303 https://harrix.dev/games/went-out-blown-out/
-http://games.harrix.org/article/306 https://harrix.dev/games/curved-line/
-http://games.harrix.org/article/312 https://harrix.dev/games/three-light-switches/
-http://games.harrix.org/article/315 https://harrix.dev/games/two-trains-towards-each-other/
-http://games.harrix.org/article/318 https://harrix.dev/games/foot-to-foot/
-http://games.harrix.org/article/322 https://harrix.dev/games/not-remember/
-http://games.harrix.org/article/326 https://harrix.dev/games/chukchi-dont-eat-fish/
-http://games.harrix.org/article/334 https://harrix.dev/games/psychosis/
-http://games.harrix.org/article/338 https://harrix.dev/games/animals-and-numbers/
-http://games.harrix.org/article/342 https://harrix.dev/games/which-letter-is-missing/
-http://games.harrix.org/article/350 https://harrix.dev/games/dashes-in-rhomb/
-http://games.harrix.org/article/354 https://harrix.dev/games/put-giraffe-in-fridge/
-http://games.harrix.org/article/357 https://harrix.dev/games/odtchpshsv/
-http://games.harrix.org/article/361 https://harrix.dev/games/finger-wrestling/
-http://games.harrix.org/article/365 https://harrix.dev/games/smart-football/
-http://games.harrix.org/article/380 https://harrix.dev/games/bulls-and-cows/
-http://games.harrix.org/article/385 https://harrix.dev/games/battleship/
-http://games.harrix.org/article/393 https://harrix.dev/games/balda/
-http://games.harrix.org/article/397 https://harrix.dev/games/balda-simple/
-http://games.harrix.org/article/402 https://harrix.dev/games/hangman/
-http://games.harrix.org/article/409 https://harrix.dev/games/misere-game/
-http://games.harrix.org/article/412 https://harrix.dev/games/what-are-your-names/
-http://games.harrix.org/article/418 https://harrix.dev/games/four-truths-and-one-lie/
-http://games.harrix.org/article/421 https://harrix.dev/games/4336454/
-http://games.harrix.org/article/496 https://harrix.dev/games/count-to-30/
-http://games.harrix.org/article/500 https://harrix.dev/games/three-sentences/
-http://games.harrix.org/article/504 https://harrix.dev/games/stand-up-straight-from-stool/
-http://games.harrix.org/article/507 https://harrix.dev/games/three-g-three-ya/
-http://games.harrix.org/article/510 https://harrix.dev/games/two-types-of-tablets/
-http://games.harrix.org/article/513 https://harrix.dev/games/get-your-name-back/
-http://games.harrix.org/article/516 https://harrix.dev/games/two-snakes-of-men/
-http://games.harrix.org/article/519 https://harrix.dev/games/change-inner-and-outer-circle/
-http://games.harrix.org/article/524 https://harrix.dev/games/month-is-silvered/
-http://games.harrix.org/article/527 https://harrix.dev/games/what-is-bus-number/
-http://games.harrix.org/article/530 https://harrix.dev/games/this-is-given-to-every-person/
-http://games.harrix.org/article/533 https://harrix.dev/games/smuggling/
-http://games.harrix.org/article/536 https://harrix.dev/games/put-100-nails-in-2-bags/
-http://games.harrix.org/article/539 https://harrix.dev/games/four-triangles-from-matches/
-http://games.harrix.org/article/545 https://harrix.dev/games/athlete-goes-up-in-elevator/
-http://games.harrix.org/article/548 https://harrix.dev/games/13112221/
-http://games.harrix.org/article/552 https://harrix.dev/games/two-times-two-equals-five/
-http://games.harrix.org/article/556 https://harrix.dev/games/draw-on-back/
-http://games.harrix.org/article/559 https://harrix.dev/games/guess-who/
-http://games.harrix.org/article/562 https://harrix.dev/games/truth-or-dare/
-http://games.harrix.org/article/569 https://harrix.dev/games/largest-number-of-diagonals/
-http://games.harrix.org/article/577 https://harrix.dev/games/flock-of-birds-was-flying/
-http://games.harrix.org/article/580 https://harrix.dev/games/santiki-fantiki-limpopo/
-http://games.harrix.org/article/583 https://harrix.dev/games/password-to-bunker-2/
-http://games.harrix.org/article/586 https://harrix.dev/games/twenty-three-plus-two-equals-one/
-http://games.harrix.org/article/605 https://harrix.dev/games/fake-coin-in-one-weighing/
-http://games.harrix.org/article/608 https://harrix.dev/games/two-roads-two-wise-men/
-http://games.harrix.org/article/611 https://harrix.dev/games/fake-coin-among-13-coins/
-http://games.harrix.org/article/623 https://harrix.dev/games/three-wise-men-and-five-caps/
-http://games.harrix.org/article/626 https://harrix.dev/games/extra-figure/
-http://games.harrix.org/article/630 https://harrix.dev/games/look-away/
-https://harrix.dev/en/blog/2013/log-of-base-two-in-mathcad/
-https://harrix.dev/en/blog/2013/kbd-style/
-https://harrix.dev/en/blog/2014/silence-of-love-video/
-https://harrix.dev/en/blog/2014/contemplation-video/
-https://harrix.dev/en/blog/2014/uchum-time-lapse-video/
-https://harrix.dev/en/blog/2017/win-fn-key-swap-in-msi/
-https://harrix.dev/en/blog/2018/color-actionbar-statusbar/
-https://harrix.dev/en/blog/2016/pvs-studio/
-https://harrix.dev/en/blog/2017/exist-sqlite-android-studio-short/
-https://harrix.dev/blog/2017/exist-sqlite-android-studio-short/
-https://harrix.dev/blog/2018/why-npm-check-updates/
-https://harrix.dev/blog/2018/disable-hide-extensions/
-https://harrix.dev/blog/2018/animation-from-display-none/
-https://harrix.dev/blog/2018/pscyr-ttf-fonts/
-https://harrix.dev/blog/2018/nox-for-android-studio/
-https://harrix.dev/blog/2018/bluestacks-for-android-studio/
-https://harrix.dev/blog/2018/genymotion-for-android-studio/
-https://harrix.dev/blog/2018/start-java/
-https://harrix.dev/blog/2018/scss-in-notepad-plus-plus/
-https://harrix.dev/blog/2018/add-2-num-file-devcpp/
-https://harrix.dev/blog/2018/add-2-num-qt-console/
-https://harrix.dev/blog/2018/own-markdown-rules-in-jekyll/
-https://harrix.dev/blog/2018/math-logic-task/
-https://harrix.dev/blog/2018/cheat-sheet-for-java-android/
-https://harrix.dev/blog/2018/download-old-versions-vs/
-https://harrix.dev/blog/2018/color-actionbar-statusbar/
-https://harrix.dev/blog/2018/mp-android-chart/
-https://harrix.dev/blog/2018/android-canvas-animation/
-https://harrix.dev/blog/2018/instance-of-interface-in-java/
-https://harrix.dev/blog/2018/open-https-in-qt/
-https://harrix.dev/blog/2019/install-jdk-on-windows/
-https://harrix.dev/blog/2020/empty-project-android/
-https://harrix.dev/blog/2021/install-vscode-simple/
-https://harrix.dev/blog/2021/install-python/
-https://harrix.dev/blog/2021/install-visual-studio-2019/
-https://harrix.dev/blog/2021/install-open-jdk-on-windows/
-https://harrix.dev/blog/2021/install-install-virtual-box/
-https://harrix.dev/blog/2021/install-node-js/
-https://harrix.dev/blog/2021/install-pycharm/
-https://harrix.dev/blog/2021/add-2-num-code-blocks/
-https://harrix.dev/blog/2021/install-git/
-https://harrix.dev/blog/2021/add-2-num-add-2-num-thonny/
-https://harrix.dev/blog/2021/add-2-num-add-2-num-wing/
-https://harrix.dev/blog/2021/add-2-num-add-2-num-pycharm/
-https://harrix.dev/blog/2021/add-2-num-python-idle/
-https://harrix.dev/blog/2021/add-2-num-python-console/
-https://harrix.dev/blog/2021/add-2-num-python-web/
-https://harrix.dev/blog/2021/add-2-num-vscode-python/
-https://harrix.dev/blog/2021/create-python-package/
-https://harrix.dev/blog/2021/create-python-package-pipenv/
+http://blog.harrix.org/article/38 https://harrix.dev/ru/articles/2013/log-of-base-two-in-mathcad/
+http://blog.harrix.org/article/56 https://harrix.dev/ru/articles/2013/library-of-all-knowledge/
+http://blog.harrix.org/article/43 https://harrix.dev/ru/articles/2013/initial-setup-sublime-text-2/
+http://blog.harrix.org/article/70 https://harrix.dev/ru/articles/2013/kbd-style/
+http://blog.harrix.org/article/77 https://harrix.dev/ru/articles/2013/materiality-of-thoughts/
+http://blog.harrix.org/article/76 https://harrix.dev/ru/articles/2013/americans-on-moon/
+http://blog.harrix.org/article/53 https://harrix.dev/ru/articles/2013/faq-sublime-text-2/
+http://blog.harrix.org/article/58 https://harrix.dev/ru/articles/2013/sublime-text-2-to-notepad/
+http://blog.harrix.org/article/100 https://harrix.dev/ru/articles/2013/notepad-plus-plus-plugins/
+http://blog.harrix.org/article/186 https://harrix.dev/ru/articles/2013/textfx
+http://blog.harrix.org/article/350 https://harrix.dev/ru/articles/2013/qml-in-notepad-plus-plus/
+http://blog.harrix.org/article/426 https://harrix.dev/ru/articles/2013/arconix-shortcodes/
+http://blog.harrix.org/article/428 https://harrix.dev/ru/articles/2013/element-qt-quick-2/
+http://blog.harrix.org/article/363 https://harrix.dev/ru/articles/2013/video-in-qt-quick-2/
+http://blog.harrix.org/article/436 https://harrix.dev/ru/articles/2013/qt5-vs-qt4/
+http://blog.harrix.org/article/444 https://harrix.dev/ru/articles/2018/pscyr/
+http://blog.harrix.org/article/849 https://harrix.dev/ru/articles/2018/install-latex/
+http://blog.harrix.org/article/2178 https://harrix.dev/ru/articles/2014/file-not-found-texstudio/
+http://blog.harrix.org/article/656 https://harrix.dev/ru/articles/2013/spell-check-in-texstudio/
+http://blog.harrix.org/article/99 https://harrix.dev/ru/articles/2013/faq-notepad-plus-plus/
+http://blog.harrix.org/article/833 https://harrix.dev/ru/articles/2014/spell-check-in-notepad/
+http://blog.harrix.org/article/2045 https://harrix.dev/ru/articles/2014/remove-duplicate-lines/
+http://blog.harrix.org/article/2850 https://harrix.dev/ru/articles/2015/remove-empty-lines-notepad/
+http://blog.harrix.org/article/2408 https://harrix.dev/ru/articles/2014/delete-every-second-line/
+http://blog.harrix.org/article/513 https://harrix.dev/ru/articles/2013/beautiful-css-tables/
+http://blog.harrix.org/article/618 https://harrix.dev/ru/articles/2013/problem-with-qml-files/
+http://blog.harrix.org/article/641 https://harrix.dev/ru/articles/2013/latex-highlight-cyrillic/
+http://blog.harrix.org/article/662 https://harrix.dev/ru/articles/2013/afraid-conditional-probability/
+http://blog.harrix.org/article/661 https://harrix.dev/ru/articles/2013/latex-links-and-hyperlinks/
+http://blog.harrix.org/article/666 https://harrix.dev/ru/articles/2013/logo-on-title-page-latex/
+http://blog.harrix.org/article/672 https://harrix.dev/ru/articles/2013/remove-indent-of-itemize/
+http://blog.harrix.org/article/687 https://harrix.dev/ru/articles/2013/double-index-in-latex/
+http://blog.harrix.org/article/680 https://harrix.dev/ru/articles/2013/bibliography-in-latex/
+http://blog.harrix.org/article/699 https://harrix.dev/ru/articles/2013/latex-and-illustrator/
+http://blog.harrix.org/article/33 https://harrix.dev/ru/articles/2013/tools-used-in-blog/
+http://blog.harrix.org/article/4973 https://harrix.dev/ru/articles/2016/tools-used-in-blog-2/
+http://blog.harrix.org/article/1258 https://harrix.dev/ru/articles/2014/show-pdf-from-github/
+http://blog.harrix.org/article/648 https://harrix.dev/ru/articles/2013/algorithm2e-cyrillic/
+http://blog.harrix.org/article/711 https://harrix.dev/ru/articles/2013/algorithmicx-cyrillic/
+http://blog.harrix.org/article/765 https://harrix.dev/ru/articles/2013/analog-align-alclient-in-qt/
+http://blog.harrix.org/article/3362 https://harrix.dev/ru/articles/2013/nested-loops-in-cpp/
+http://blog.harrix.org/article/1711 https://harrix.dev/ru/articles/2014/how-to-play-mp3-in-qt/
+http://blog.harrix.org/article/1700 https://harrix.dev/ru/articles/2014/save-from-qtableview-to-csv/
+http://blog.harrix.org/article/1523 https://harrix.dev/ru/articles/2014/output-data-to-qtableview/
+http://blog.harrix.org/article/1706 https://harrix.dev/ru/articles/2014/save-from-qtextedit-to-odf/
+http://blog.harrix.org/article/1521 https://harrix.dev/ru/articles/2014/connect-to-sql-server-in-qt/
+http://blog.harrix.org/article/2437 https://harrix.dev/ru/articles/2014/install-jdk-8-on-windows/
+http://blog.harrix.org/article/7729 https://harrix.dev/ru/articles/2017/create-items-programmatically/
+http://blog.harrix.org/article/1813 https://harrix.dev/ru/articles/2014/qcustomplot/
+http://blog.harrix.org/article/4764 https://harrix.dev/ru/articles/2016/install-visual-studio-2015/
+http://blog.harrix.org/article/2792 https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-console/
+http://blog.harrix.org/article/6789 https://harrix.dev/ru/articles/2017/install-visual-studio-2017/
+http://blog.harrix.org/article/6813 https://harrix.dev/ru/articles/2017/add-2-num-vs-2017-clr/
+http://blog.harrix.org/article/7118 https://harrix.dev/ru/articles/2017/win-fn-key-swap-in-msi/
+http://blog.harrix.org/article/5888 https://harrix.dev/ru/articles/2016/fix-qt-under-visual-studio/
+http://blog.harrix.org/article/2446 https://harrix.dev/ru/articles/2019/install-android-studio/
+http://blog.harrix.org/article/6706 http://blog.harrix.org/article/2742 https://harrix.dev/ru/articles/2019/add-2-num-android/
+http://blog.harrix.org/article/3220 https://harrix.dev/ru/articles/2019/install-intellij-idea/
+http://blog.harrix.org/article/3248 https://harrix.dev/ru/articles/2019/add-2-num-intellij-idea/
+http://blog.harrix.org/article/2514 https://harrix.dev/ru/articles/2014/install-eclipse-java/
+http://blog.harrix.org/article/2808 https://harrix.dev/ru/articles/2015/add-2-num-eclipse-java/
+http://blog.harrix.org/article/1130 https://harrix.dev/ru/articles/2014/install-qt-on-windows-xp/
+http://blog.harrix.org/article/917 https://harrix.dev/ru/articles/2018/install-qt-mingw/
+http://blog.harrix.org/article/2417 http://blog.harrix.org/article/5235 http://blog.harrix.org/article/4870 https://harrix.dev/ru/articles/2018/install-qt-advanced/
+http://blog.harrix.org/article/6392 https://harrix.dev/ru/articles/2017/step-gradient-on-msi-gt72vr/
+http://blog.harrix.org/article/4826 https://harrix.dev/ru/articles/2016/using-qthread/
+http://blog.harrix.org/article/55 https://harrix.dev/ru/articles/2013/faq-qt/
+http://blog.harrix.org/article/669 https://harrix.dev/ru/articles/2013/faq-latex/
+http://blog.harrix.org/article/5812 https://harrix.dev/ru/articles/2016/read-matrix-from-file-cpp/
+http://blog.harrix.org/article/4556 https://harrix.dev/ru/articles/2016/jquery-not-work-in-wordpress/
+http://blog.harrix.org/article/823 https://harrix.dev/ru/articles/2013/sort-functions-in-qt-creator/
+http://blog.harrix.org/article/904 https://harrix.dev/ru/articles/2014/3d-latex-pgfplots-mathcad/
+http://blog.harrix.org/article/933 https://harrix.dev/ru/articles/2014/how-download-from-github/
+http://blog.harrix.org/article/994 https://harrix.dev/ru/articles/2014/basic-app-qt-widgets/
+http://blog.harrix.org/article/1015 https://harrix.dev/ru/articles/2014/run-qt-app-exe-outside-qt/
+http://blog.harrix.org/article/5034 https://harrix.dev/ru/articles/2016/run-qt-vs-app-exe-outside-qt/
+http://blog.harrix.org/article/1345 https://harrix.dev/ru/articles/2014/text-between-tags-in-php/
+http://blog.harrix.org/article/4506 https://harrix.dev/ru/articles/2016/md-in-notepad-plus-plus/
+http://blog.harrix.org/article/843 https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-1/
+http://blog.harrix.org/article/844 https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-2/
+http://blog.harrix.org/article/845 https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-3/
+http://blog.harrix.org/article/1441 https://harrix.dev/ru/articles/2014/how-to-make-time-lapse-4/
+http://blog.harrix.org/article/1511 https://harrix.dev/ru/articles/2014/not-display-3d-mathcad/
+http://blog.harrix.org/article/1779 https://harrix.dev/ru/articles/2014/uchum-time-lapse-video/
+http://blog.harrix.org/article/1784 https://harrix.dev/ru/articles/2014/silence-of-love-video/
+http://blog.harrix.org/article/1785 https://harrix.dev/ru/articles/2014/contemplation-video/
+http://blog.harrix.org/article/1787 https://harrix.dev/ru/articles/2014/qtscript/
+http://blog.harrix.org/article/5207 https://harrix.dev/ru/articles/2016/qjsengine/
+http://blog.harrix.org/article/1856 https://harrix.dev/ru/articles/2014/how-to-add-french-quotes/
+http://blog.harrix.org/article/1884 https://harrix.dev/ru/articles/2014/teleportation/
+http://blog.harrix.org/article/1889 https://harrix.dev/ru/articles/2014/faq-readyscript/
+http://blog.harrix.org/article/1899 https://harrix.dev/ru/articles/2014/droste-effect/
+http://blog.harrix.org/article/2168 https://harrix.dev/ru/articles/2014/color-in-dell-inspiron-5547/
+http://blog.harrix.org/article/2188 https://harrix.dev/ru/articles/2014/boot-menu-dell-inspiron-5547/
+http://blog.harrix.org/article/5793 https://harrix.dev/ru/articles/2016/add-2-num-file-vs-2015/
+http://blog.harrix.org/article/4797 https://harrix.dev/ru/articles/2016/add-2-num-devcpp/
+http://blog.harrix.org/article/1916 https://harrix.dev/ru/articles/2014/image-services/
+http://blog.harrix.org/article/1958 https://harrix.dev/ru/articles/2014/sound-services/
+http://blog.harrix.org/article/2056 https://harrix.dev/ru/articles/2014/radial-gradient-with-noise/
+http://blog.harrix.org/article/2203 https://harrix.dev/ru/articles/2018/apache-php-mysql/
+http://blog.harrix.org/article/2829 https://harrix.dev/ru/articles/2015/add-2-num-qt-moc-console/
+http://blog.harrix.org/article/2844 https://harrix.dev/ru/articles/2015/cyrillic-in-qt-console/
+http://blog.harrix.org/article/2868 https://harrix.dev/ru/articles/2015/add-2-num-qt/
+http://blog.harrix.org/article/2911 https://harrix.dev/ru/articles/2015/add-2-num-vs-2013-clr/
+http://blog.harrix.org/article/2966 https://harrix.dev/ru/articles/2015/jsoup/
+http://blog.harrix.org/article/2431 https://harrix.dev/ru/articles/2015/errors-in-qt-for-beginners/
+http://blog.harrix.org/article/3084 https://harrix.dev/ru/articles/2015/wallpapers-for-galaxy-note/
+http://blog.harrix.org/article/3286 https://harrix.dev/ru/articles/2015/add-2-num-js/
+http://blog.harrix.org/article/3307 https://harrix.dev/ru/articles/2015/add-2-num-php/
+http://blog.harrix.org/article/3319 https://harrix.dev/ru/articles/2015/lightroom-nikon/
+http://blog.harrix.org/article/3334 https://harrix.dev/ru/articles/2018/russian-nouns/
+http://blog.harrix.org/article/3353 https://harrix.dev/ru/articles/2018/add-2-num-file-intellij-idea/
+http://blog.harrix.org/article/4119 https://harrix.dev/ru/articles/2015/how-remove-disqus-channel/
+http://blog.harrix.org/article/6076 http://blog.harrix.org/article/3998 http://blog.harrix.org/article/3997 https://harrix.dev/ru/articles/2016/faq-atom/
+http://blog.harrix.org/article/4481 https://harrix.dev/ru/articles/2015/programs-of-new-year/
+http://blog.harrix.org/article/4914 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-clr/
+http://blog.harrix.org/article/5006 https://harrix.dev/ru/articles/2016/add-video-from-google-drive/
+http://blog.harrix.org/article/5076 http://blog.harrix.org/article/3108 https://harrix.dev/ru/articles/2016/add-2-num-qt-quick/
+http://blog.harrix.org/article/5079 http://blog.harrix.org/article/3175 https://harrix.dev/ru/articles/2016/qt-quick-and-cpp/
+http://blog.harrix.org/article/5082 http://blog.harrix.org/article/3183 https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/
+http://blog.harrix.org/article/5154 https://harrix.dev/ru/articles/2016/db-browser-for-sqlite/
+http://blog.harrix.org/article/5159 https://harrix.dev/ru/articles/2016/qt-sqlite/
+http://blog.harrix.org/article/5221 https://harrix.dev/ru/articles/2016/qt-webengine/
+http://blog.harrix.org/article/5265 http://blog.harrix.org/article/5874 https://harrix.dev/ru/articles/2019/add-2-num-qt-quick-controls-2/
+http://blog.harrix.org/article/5327 https://harrix.dev/ru/articles/2016/add-2-num-pascal-abc-net/
+http://blog.harrix.org/article/5351 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-win32/
+http://blog.harrix.org/article/5422 https://harrix.dev/ru/articles/2016/add-2-num-c-builder-6/
+http://blog.harrix.org/article/5444 https://harrix.dev/ru/articles/2016/add-2-num-c-builder-6-console/
+http://blog.harrix.org/article/5493 https://harrix.dev/ru/articles/2016/add-2-num-vs-2010-clr/
+http://blog.harrix.org/article/5516 https://harrix.dev/ru/articles/2016/add-2-num-vs-2010-console/
+http://blog.harrix.org/article/5529 https://harrix.dev/ru/articles/2016/add-2-num-c-builder-10/
+http://blog.harrix.org/article/5556 https://harrix.dev/ru/articles/2016/add-2-num-delphi-10/
+http://blog.harrix.org/article/5577 https://harrix.dev/ru/articles/2016/add-2-num-c-builder-10-console/
+http://blog.harrix.org/article/5592 https://harrix.dev/ru/articles/2016/add-2-num-delphi-10-console/
+http://blog.harrix.org/article/5605 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-console/
+http://blog.harrix.org/article/6535 https://harrix.dev/ru/articles/2017/add-2-num-vs-2015-console-2/
+http://blog.harrix.org/article/5618 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-clr-console/
+http://blog.harrix.org/article/5630 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cs-console/
+http://blog.harrix.org/article/5645 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cs/
+http://blog.harrix.org/article/5665 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-basic/
+http://blog.harrix.org/article/5683 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-basic-console/
+http://blog.harrix.org/article/5693 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cs-wpf/
+http://blog.harrix.org/article/5714 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cs-uwp/
+http://blog.harrix.org/article/5738 https://harrix.dev/ru/articles/2016/add-2-num-vs-2015-cpp-uwp/
+http://blog.harrix.org/article/5764 https://harrix.dev/ru/articles/2016/add-2-num-free-pascal/
+http://blog.harrix.org/article/5819 https://harrix.dev/ru/articles/2016/table-data-from-file-cpp/
+http://blog.harrix.org/article/5921 https://harrix.dev/ru/articles/2016/git-worktree-github-pages/
+http://blog.harrix.org/article/5955 https://harrix.dev/ru/articles/2016/git-worktree/
+http://blog.harrix.org/article/6000 https://harrix.dev/ru/articles/2016/icon-qt-android/
+http://blog.harrix.org/article/6024 https://harrix.dev/ru/articles/2016/xml-file-vs-2015/
+http://blog.harrix.org/article/6059 https://harrix.dev/ru/articles/2016/new-class-clr-vs-2015/
+http://blog.harrix.org/article/6019 https://harrix.dev/ru/articles/2016/pvs-studio/
+http://blog.harrix.org/article/6313 https://harrix.dev/ru/articles/2016/class-with-instance-vector-clr/
+http://blog.harrix.org/article/6320 https://harrix.dev/ru/articles/2016/xml-file-clr/
+http://blog.harrix.org/article/6339 https://harrix.dev/ru/articles/2016/copy-files-in-build-folder-qt/
+http://blog.harrix.org/article/6558 https://harrix.dev/ru/articles/2017/add-2-num-cpp-droid/
+http://blog.harrix.org/article/6582 https://harrix.dev/ru/articles/2017/add-2-num-dcoder/
+http://blog.harrix.org/article/6610 https://harrix.dev/ru/articles/2017/exist-sqlite-android-studio/
+http://blog.harrix.org/article/6692 https://harrix.dev/ru/articles/2017/java-task-shopping-list/
+http://blog.harrix.org/article/6757 https://harrix.dev/ru/articles/2017/third-party-components-gradle/
+http://blog.harrix.org/article/6784 https://harrix.dev/en/articles/2017/exist-sqlite-android-studio-short/
+http://blog.harrix.org/article/6861 https://harrix.dev/ru/articles/2017/element-over-another-android/
+http://blog.harrix.org/article/6869 https://harrix.dev/ru/articles/2017/start-without-debugging-vs/
+http://blog.harrix.org/article/6880 https://harrix.dev/ru/articles/2017/tomcat/
+http://blog.harrix.org/article/6965 https://harrix.dev/ru/articles/2017/add-2-num-php-get/
+http://blog.harrix.org/article/6973 https://harrix.dev/ru/articles/2017/add-2-num-java-get/
+http://blog.harrix.org/article/6986 https://harrix.dev/ru/articles/2017/add-2-num-apache-http/
+http://blog.harrix.org/article/7028 https://harrix.dev/ru/articles/2017/add-2-num-php-post/
+http://blog.harrix.org/article/7015 https://harrix.dev/ru/articles/2017/add-2-num-http-url-connection/
+http://blog.harrix.org/article/7041 https://harrix.dev/ru/articles/2017/add-2-num-java-post/
+http://blog.harrix.org/article/7049 https://harrix.dev/ru/articles/2017/add-2-num-html-get/
+http://blog.harrix.org/article/7062 https://harrix.dev/ru/articles/2017/add-2-num-html-post/
+http://blog.harrix.org/article/7083 https://harrix.dev/ru/articles/2017/add-2-num-apache-http-post/
+http://blog.harrix.org/article/7084 https://harrix.dev/ru/articles/2017/add-2-num-http-url-connection-post/
+http://blog.harrix.org/article/7123 https://harrix.dev/ru/articles/2017/boost-qt/
+http://blog.harrix.org/article/7200 https://harrix.dev/ru/articles/2017/add-2-num-php-post-json/
+http://blog.harrix.org/article/7231 https://harrix.dev/ru/articles/2017/java-annotation/
+http://blog.harrix.org/article/7246 https://harrix.dev/ru/articles/2017/method-call-java-annotation/
+http://blog.harrix.org/article/7378 https://harrix.dev/ru/articles/2017/fragments-android-1/
+http://blog.harrix.org/article/7461 https://harrix.dev/ru/articles/2017/fragments-android-2/
+http://blog.harrix.org/article/7462 https://harrix.dev/ru/articles/2017/fragments-android-3/
+http://blog.harrix.org/article/7492 https://harrix.dev/ru/articles/2017/fragments-android-4/
+http://blog.harrix.org/article/7521 https://harrix.dev/ru/articles/2017/fragments-android-5/
+http://blog.harrix.org/article/7206 https://harrix.dev/ru/articles/2017/add-2-num-http-retrofit-post-json/
+http://blog.harrix.org/article/7209 https://harrix.dev/ru/articles/2017/client-server/
+http://blog.harrix.org/article/7348 https://harrix.dev/ru/articles/2017/gson-intellij-idea/
+http://blog.harrix.org/article/7370 https://harrix.dev/ru/articles/2017/class-random-cpp11/
+http://blog.harrix.org/article/7631 https://harrix.dev/ru/articles/2017/foreign-key-sqlite/
+http://blog.harrix.org/article/7676 https://harrix.dev/ru/articles/2017/data-grid-view-vs/
+http://blog.harrix.org/article/7614 https://harrix.dev/ru/articles/2017/sqlite-vs/
+http://games.harrix.org/article/459 https://harrix.dev/ru/games/hand-not-hand/
+http://games.harrix.org/article/59 https://harrix.dev/ru/games/black-magic/
+http://games.harrix.org/article/66 https://harrix.dev/ru/games/folk-tale/
+http://games.harrix.org/article/72 https://harrix.dev/ru/games/one-two-three/
+http://games.harrix.org/article/80 https://harrix.dev/ru/games/contact/
+http://games.harrix.org/article/84 https://harrix.dev/ru/games/mafia/
+http://games.harrix.org/article/90 https://harrix.dev/ru/games/how-was-it/
+http://games.harrix.org/article/94 https://harrix.dev/ru/games/three-subjects/
+http://games.harrix.org/article/98 https://harrix.dev/ru/games/only-truth/
+http://games.harrix.org/article/103 https://harrix.dev/ru/games/three-lines/
+http://games.harrix.org/article/109 https://harrix.dev/ru/games/password-to-bunker/
+http://games.harrix.org/article/115 https://harrix.dev/ru/games/add-symbol/
+http://games.harrix.org/article/122 https://harrix.dev/ru/games/charades/
+http://games.harrix.org/article/129 https://harrix.dev/ru/games/count-to-40/
+http://games.harrix.org/article/157 https://harrix.dev/ru/games/i-i/
+http://games.harrix.org/article/162 https://harrix.dev/ru/games/last-survivors/
+http://games.harrix.org/article/165 https://harrix.dev/ru/games/garages/
+http://games.harrix.org/article/169 https://harrix.dev/ru/games/i-take-with-me-on-trip/
+http://games.harrix.org/article/172 https://harrix.dev/ru/games/cross-parallel/
+http://games.harrix.org/article/175 https://harrix.dev/ru/games/three-segments/
+http://games.harrix.org/article/298 https://harrix.dev/ru/games/four-segments/
+http://games.harrix.org/article/184 https://harrix.dev/ru/games/strange-equalities/
+http://games.harrix.org/article/190 https://harrix.dev/ru/games/three-mice/
+http://games.harrix.org/article/216 https://harrix.dev/ru/games/then-forest-then-field/
+http://games.harrix.org/article/221 https://harrix.dev/ru/games/what-is-georgian-surname/
+http://games.harrix.org/article/252 https://harrix.dev/ru/games/question-in-alphabet/
+http://games.harrix.org/article/229 https://harrix.dev/ru/games/make-up-words/
+http://games.harrix.org/article/234 https://harrix.dev/ru/games/points/
+http://games.harrix.org/article/241 https://harrix.dev/ru/games/segments/
+http://games.harrix.org/article/248 https://harrix.dev/ru/games/dashes/
+http://games.harrix.org/article/258 https://harrix.dev/ru/games/who-am-i/
+http://games.harrix.org/article/261 https://harrix.dev/ru/games/open-closed/
+http://games.harrix.org/article/265 https://harrix.dev/ru/games/how-many-fingers/
+http://games.harrix.org/article/274 https://harrix.dev/ru/games/fingers/
+http://games.harrix.org/article/277 https://harrix.dev/ru/games/square-of-people/
+http://games.harrix.org/article/280 https://harrix.dev/ru/games/attention-test/
+http://games.harrix.org/article/283 https://harrix.dev/ru/games/line-up-by-height/
+http://games.harrix.org/article/287 https://harrix.dev/ru/games/avalanche-of-words/
+http://games.harrix.org/article/290 https://harrix.dev/ru/games/tangled-feet/
+http://games.harrix.org/article/293 https://harrix.dev/ru/games/catch-up-in-circle/
+http://games.harrix.org/article/303 https://harrix.dev/ru/games/went-out-blown-out/
+http://games.harrix.org/article/306 https://harrix.dev/ru/games/curved-line/
+http://games.harrix.org/article/312 https://harrix.dev/ru/games/three-light-switches/
+http://games.harrix.org/article/315 https://harrix.dev/ru/games/two-trains-towards-each-other/
+http://games.harrix.org/article/318 https://harrix.dev/ru/games/foot-to-foot/
+http://games.harrix.org/article/322 https://harrix.dev/ru/games/not-remember/
+http://games.harrix.org/article/326 https://harrix.dev/ru/games/chukchi-dont-eat-fish/
+http://games.harrix.org/article/334 https://harrix.dev/ru/games/psychosis/
+http://games.harrix.org/article/338 https://harrix.dev/ru/games/animals-and-numbers/
+http://games.harrix.org/article/342 https://harrix.dev/ru/games/which-letter-is-missing/
+http://games.harrix.org/article/350 https://harrix.dev/ru/games/dashes-in-rhomb/
+http://games.harrix.org/article/354 https://harrix.dev/ru/games/put-giraffe-in-fridge/
+http://games.harrix.org/article/357 https://harrix.dev/ru/games/odtchpshsv/
+http://games.harrix.org/article/361 https://harrix.dev/ru/games/finger-wrestling/
+http://games.harrix.org/article/365 https://harrix.dev/ru/games/smart-football/
+http://games.harrix.org/article/380 https://harrix.dev/ru/games/bulls-and-cows/
+http://games.harrix.org/article/385 https://harrix.dev/ru/games/battleship/
+http://games.harrix.org/article/393 https://harrix.dev/ru/games/balda/
+http://games.harrix.org/article/397 https://harrix.dev/ru/games/balda-simple/
+http://games.harrix.org/article/402 https://harrix.dev/ru/games/hangman/
+http://games.harrix.org/article/409 https://harrix.dev/ru/games/misere-game/
+http://games.harrix.org/article/412 https://harrix.dev/ru/games/what-are-your-names/
+http://games.harrix.org/article/418 https://harrix.dev/ru/games/four-truths-and-one-lie/
+http://games.harrix.org/article/421 https://harrix.dev/ru/games/4336454/
+http://games.harrix.org/article/496 https://harrix.dev/ru/games/count-to-30/
+http://games.harrix.org/article/500 https://harrix.dev/ru/games/three-sentences/
+http://games.harrix.org/article/504 https://harrix.dev/ru/games/stand-up-straight-from-stool/
+http://games.harrix.org/article/507 https://harrix.dev/ru/games/three-g-three-ya/
+http://games.harrix.org/article/510 https://harrix.dev/ru/games/two-types-of-tablets/
+http://games.harrix.org/article/513 https://harrix.dev/ru/games/get-your-name-back/
+http://games.harrix.org/article/516 https://harrix.dev/ru/games/two-snakes-of-men/
+http://games.harrix.org/article/519 https://harrix.dev/ru/games/change-inner-and-outer-circle/
+http://games.harrix.org/article/524 https://harrix.dev/ru/games/month-is-silvered/
+http://games.harrix.org/article/527 https://harrix.dev/ru/games/what-is-bus-number/
+http://games.harrix.org/article/530 https://harrix.dev/ru/games/this-is-given-to-every-person/
+http://games.harrix.org/article/533 https://harrix.dev/ru/games/smuggling/
+http://games.harrix.org/article/536 https://harrix.dev/ru/games/put-100-nails-in-2-bags/
+http://games.harrix.org/article/539 https://harrix.dev/ru/games/four-triangles-from-matches/
+http://games.harrix.org/article/545 https://harrix.dev/ru/games/athlete-goes-up-in-elevator/
+http://games.harrix.org/article/548 https://harrix.dev/ru/games/13112221/
+http://games.harrix.org/article/552 https://harrix.dev/ru/games/two-times-two-equals-five/
+http://games.harrix.org/article/556 https://harrix.dev/ru/games/draw-on-back/
+http://games.harrix.org/article/559 https://harrix.dev/ru/games/guess-who/
+http://games.harrix.org/article/562 https://harrix.dev/ru/games/truth-or-dare/
+http://games.harrix.org/article/569 https://harrix.dev/ru/games/largest-number-of-diagonals/
+http://games.harrix.org/article/577 https://harrix.dev/ru/games/flock-of-birds-was-flying/
+http://games.harrix.org/article/580 https://harrix.dev/ru/games/santiki-fantiki-limpopo/
+http://games.harrix.org/article/583 https://harrix.dev/ru/games/password-to-bunker-2/
+http://games.harrix.org/article/586 https://harrix.dev/ru/games/twenty-three-plus-two-equals-one/
+http://games.harrix.org/article/605 https://harrix.dev/ru/games/fake-coin-in-one-weighing/
+http://games.harrix.org/article/608 https://harrix.dev/ru/games/two-roads-two-wise-men/
+http://games.harrix.org/article/611 https://harrix.dev/ru/games/fake-coin-among-13-coins/
+http://games.harrix.org/article/623 https://harrix.dev/ru/games/three-wise-men-and-five-caps/
+http://games.harrix.org/article/626 https://harrix.dev/ru/games/extra-figure/
+http://games.harrix.org/article/630 https://harrix.dev/ru/games/look-away/
+https://harrix.dev/en/articles/2013/log-of-base-two-in-mathcad/
+https://harrix.dev/en/articles/2013/kbd-style/
+https://harrix.dev/en/articles/2014/silence-of-love-video/
+https://harrix.dev/en/articles/2014/contemplation-video/
+https://harrix.dev/en/articles/2014/uchum-time-lapse-video/
+https://harrix.dev/en/articles/2017/win-fn-key-swap-in-msi/
+https://harrix.dev/en/articles/2018/color-actionbar-statusbar/
+https://harrix.dev/en/articles/2016/pvs-studio/
+https://harrix.dev/en/articles/2017/exist-sqlite-android-studio-short/
+https://harrix.dev/ru/articles/2017/exist-sqlite-android-studio-short/
+https://harrix.dev/ru/articles/2018/why-npm-check-updates/
+https://harrix.dev/ru/articles/2018/disable-hide-extensions/
+https://harrix.dev/ru/articles/2018/animation-from-display-none/
+https://harrix.dev/ru/articles/2018/pscyr-ttf-fonts/
+https://harrix.dev/ru/articles/2018/nox-for-android-studio/
+https://harrix.dev/ru/articles/2018/bluestacks-for-android-studio/
+https://harrix.dev/ru/articles/2018/genymotion-for-android-studio/
+https://harrix.dev/ru/articles/2018/start-java/
+https://harrix.dev/ru/articles/2018/scss-in-notepad-plus-plus/
+https://harrix.dev/ru/articles/2018/add-2-num-file-devcpp/
+https://harrix.dev/ru/articles/2018/add-2-num-qt-console/
+https://harrix.dev/ru/articles/2018/own-markdown-rules-in-jekyll/
+https://harrix.dev/ru/articles/2018/math-logic-task/
+https://harrix.dev/ru/articles/2018/cheat-sheet-for-java-android/
+https://harrix.dev/ru/articles/2018/download-old-versions-vs/
+https://harrix.dev/ru/articles/2018/color-actionbar-statusbar/
+https://harrix.dev/ru/articles/2018/mp-android-chart/
+https://harrix.dev/ru/articles/2018/android-canvas-animation/
+https://harrix.dev/ru/articles/2018/instance-of-interface-in-java/
+https://harrix.dev/ru/articles/2018/open-https-in-qt/
+https://harrix.dev/ru/articles/2019/install-jdk-on-windows/
+https://harrix.dev/ru/articles/2020/empty-project-android/
+https://harrix.dev/ru/articles/2021/install-vscode-simple/
+https://harrix.dev/ru/articles/2021/install-python/
+https://harrix.dev/ru/articles/2021/install-visual-studio-2019/
+https://harrix.dev/ru/articles/2021/install-open-jdk-on-windows/
+https://harrix.dev/ru/articles/2021/install-install-virtual-box/
+https://harrix.dev/ru/articles/2021/install-node-js/
+https://harrix.dev/ru/articles/2021/install-pycharm/
+https://harrix.dev/ru/articles/2021/add-2-num-code-blocks/
+https://harrix.dev/ru/articles/2021/install-git/
+https://harrix.dev/ru/articles/2021/add-2-num-add-2-num-thonny/
+https://harrix.dev/ru/articles/2021/add-2-num-add-2-num-wing/
+https://harrix.dev/ru/articles/2021/add-2-num-add-2-num-pycharm/
+https://harrix.dev/ru/articles/2021/add-2-num-python-idle/
+https://harrix.dev/ru/articles/2021/add-2-num-python-console/
+https://harrix.dev/ru/articles/2021/add-2-num-python-web/
+https://harrix.dev/ru/articles/2021/add-2-num-vscode-python/
+https://harrix.dev/ru/articles/2021/create-python-package/
+https://harrix.dev/ru/articles/2021/create-python-package-pipenv/
