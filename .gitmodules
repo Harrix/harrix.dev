@@ -1,6 +1,3 @@
-[submodule "content/ru/blog/2014"]
-	path = content/ru/blog/2014
-	url = https://github.com/Harrix/harrix.dev-blog-2014
 [submodule "content/ru/blog/2015"]
 	path = content/ru/blog/2015
 	url = https://github.com/Harrix/harrix.dev-blog-2015
