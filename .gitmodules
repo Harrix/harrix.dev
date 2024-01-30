@@ -1,6 +1,4 @@
 [submodule "content/ru/games"]
 	path = content/ru/games
 	url = https://github.com/Harrix/harrix.dev-games
-[submodule "content/ru/blog/2024"]
-	path = content/ru/blog/2024
-	url = https://github.com/Harrix/harrix.dev-blog-2024
+
