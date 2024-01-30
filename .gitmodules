@@ -2,3 +2,51 @@
 	path = content/ru/games
 	url = https://github.com/Harrix/harrix.dev-games
 
+[submodule "content/en/articles/2013"]
+	path = content/en/articles/2013
+	url = https://github.com/Harrix/harrix.dev-articles-2013-en
+[submodule "content/en/articles/2014"]
+	path = content/en/articles/2014
+	url = https://github.com/Harrix/harrix.dev-articles-2014-en
+[submodule "content/en/articles/2016"]
+	path = content/en/articles/2016
+	url = https://github.com/Harrix/harrix.dev-articles-2016-en
+[submodule "content/en/articles/2017"]
+	path = content/en/articles/2017
+	url = https://github.com/Harrix/harrix.dev-articles-2017-en
+[submodule "content/en/articles/2018"]
+	path = content/en/articles/2018
+	url = https://github.com/Harrix/harrix.dev-articles-2018-en
+[submodule "content/ru/articles/2013"]
+	path = content/ru/articles/2013
+	url = https://github.com/Harrix/harrix.dev-articles-2013
+[submodule "content/ru/articles/2014"]
+	path = content/ru/articles/2014
+	url = https://github.com/Harrix/harrix.dev-articles-2014
+[submodule "content/ru/articles/2015"]
+	path = content/ru/articles/2015
+	url = https://github.com/Harrix/harrix.dev-articles-2015
+[submodule "content/ru/articles/2016"]
+	path = content/ru/articles/2016
+	url = https://github.com/Harrix/harrix.dev-articles-2016
+[submodule "content/ru/articles/2017"]
+	path = content/ru/articles/2017
+	url = https://github.com/Harrix/harrix.dev-articles-2017
+[submodule "content/ru/articles/2018"]
+	path = content/ru/articles/2018
+	url = https://github.com/Harrix/harrix.dev-articles-2018
+[submodule "content/ru/articles/2019"]
+	path = content/ru/articles/2019
+	url = https://github.com/Harrix/harrix.dev-articles-2019
+[submodule "content/ru/articles/2020"]
+	path = content/ru/articles/2020
+	url = https://github.com/Harrix/harrix.dev-articles-2020
+[submodule "content/ru/articles/2021"]
+	path = content/ru/articles/2021
+	url = https://github.com/Harrix/harrix.dev-articles-2021
+[submodule "content/ru/articles/2022"]
+	path = content/ru/articles/2022
+	url = https://github.com/Harrix/harrix.dev-articles-2022
+[submodule "content/ru/articles/2024"]
+	path = content/ru/articles/2024
+	url = https://github.com/Harrix/harrix.dev-articles-2024
