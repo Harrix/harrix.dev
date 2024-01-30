@@ -28,9 +28,6 @@
 [submodule "content/ru/games"]
 	path = content/ru/games
 	url = https://github.com/Harrix/harrix.dev-games
-[submodule "content/en/blog/2014"]
-	path = content/en/blog/2014
-	url = https://github.com/Harrix/harrix.dev-blog-2014-en
 [submodule "content/en/blog/2017"]
 	path = content/en/blog/2017
 	url = https://github.com/Harrix/harrix.dev-blog-2017-en
