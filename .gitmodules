@@ -31,9 +31,6 @@
 [submodule "content/en/blog/2017"]
 	path = content/en/blog/2017
 	url = https://github.com/Harrix/harrix.dev-blog-2017-en
-[submodule "content/en/blog/2016"]
-	path = content/en/blog/2016
-	url = https://github.com/Harrix/harrix.dev-blog-2016-en
 [submodule "content/en/blog/2018"]
 	path = content/en/blog/2018
 	url = https://github.com/Harrix/harrix.dev-blog-2018-en
