@@ -23,7 +23,7 @@ Links to markdown for internal articles:
 [Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->
 ```
 
-What does it look like: [Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->
+What does it look like: [Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->.
 
 Collect all changes of articles from submodules:
 
