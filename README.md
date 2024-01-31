@@ -5,13 +5,13 @@ Example url of articles: `https://harrix.dev/ru/articles/2013/faq-qt`.
 The correspondence of the source of the article and the article on the site:
 
 ```text
-https://github.com/Harrix/harrix.dev-articles-2016-en/articles/main/pvs-studio/pvs-studio.md
+https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md
 https://harrix.dev/en/articles/2016/pvs-studio/
 
-https://github.com/Harrix/harrix.dev-blog-2013/articles/main/faq-qt/faq-qt.md
+https://github.com/Harrix/harrix.dev-blog-2013/blob/main/faq-qt/faq-qt.md
 https://harrix.dev/ru/articles/2013/faq-qt/
 
-https://github.com/Harrix/harrix.dev-games/articles/main/add-symbol/add-symbol.md
+https://github.com/Harrix/harrix.dev-games/blob/main/add-symbol/add-symbol.md
 https://harrix.dev/ru/games/add-symbol/
 ```
 
@@ -20,8 +20,10 @@ Links to markdown for internal articles:
 ```markdown
 [Title](Link to GitHub) <!-- Link to harrix.dev -->
 
-[Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/articles/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->
+[Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->
 ```
+
+What does it look like: [Review of PVS-Studio](https://github.com/Harrix/harrix.dev-articles-2016-en/blob/main/pvs-studio/pvs-studio.md) <!-- https://harrix.dev/en/articles/2016/pvs-studio/ -->
 
 Collect all changes of articles from submodules:
 
