@@ -4,20 +4,20 @@
 
 Collect all changes of articles from submodules:
 
-```console
+```shell
 git submodule foreach git pull origin main
 ```
 
 Add next year to the site as a submodule:
 
-```console
+```shell
 git submodule add https://github.com/Harrix/harrix.dev-blog-2024 content/ru/articles/2024
 git submodule add https://github.com/Harrix/harrix.dev-blog-2024-en content/en/articles/2024
 ```
 
 Beatify:
 
-```console
+```shell
 prettier --parser markdown --write **/*.md --end-of-line crlf
 ```
 
