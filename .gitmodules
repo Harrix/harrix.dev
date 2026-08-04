@@ -53,3 +53,6 @@
 [submodule "content/en/articles/2025"]
 	path = content/en/articles/2025
 	url = https://github.com/Harrix/harrix.dev-articles-2025-en
+[submodule "content/en/articles/2021"]
+	path = content/en/articles/2021
+	url = https://github.com/Harrix/harrix.dev-articles-2021-en
